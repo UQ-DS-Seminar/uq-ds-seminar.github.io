@@ -15,7 +15,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
-    
+
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
@@ -39,7 +39,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
+            {{ latest_post.display-date | date: '%b %d, %Y' }}
         </small>
     </div>
     </div>
@@ -70,7 +70,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                        {{ second_post.display-date | date: '%b %d, %Y' }}
                     </small>
                 </div>
             </div>
@@ -97,7 +97,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
+                        {{ third_post.display-date | date: '%b %d, %Y' }}
                     </small>
                 </div>
             </div>
@@ -124,7 +124,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | date: '%b %d, %Y' }}
+                        {{ fourth_post.display-date | date: '%b %d, %Y' }}
                     </small>
                 </div>
             </div>
