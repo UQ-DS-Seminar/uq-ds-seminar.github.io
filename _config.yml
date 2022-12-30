@@ -1,8 +1,8 @@
 # Site
 name: 'UQ-DS-Seminar'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Official Site for Data Science Seminar Series, The University of Queensland.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/uqds.ico'
 baseurl: ''
 disqus: 'uq-ds-seminar.github.io'
 email: 'y.luo@uq.edu.au'

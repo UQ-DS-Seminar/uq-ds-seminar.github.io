@@ -4,7 +4,8 @@ title:  "Welcome to Data Science Seminar Series!"
 categories: [ Introduction ]
 author: yadan
 image: assets/images/uq_data_science.jpg
-display-date: 2023-04-26
+date: 2022-12-30
+display-date: 2023-01-01
 ---
 This Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending to have a diverse set of talks and speakers on topics realted to machine learning, computer vision, data mining, information retrieval, etc.
 
