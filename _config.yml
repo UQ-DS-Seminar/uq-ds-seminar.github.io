@@ -4,7 +4,7 @@ description: 'Official Site for Data Science Seminar Series, The University of Q
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/uqds.ico'
 baseurl: ''
-disqus: 'uq-ds-seminar.github.io'
+disqus: 'https-uq-ds-seminar-github-io'
 email: 'y.luo@uq.edu.au'
 mailchimp-list: 'https://github.us17.list-manage.com/subscribe/post?u=ece2482ceaa4d8663c8de0eb4&amp;id=f0fe41106a'
 

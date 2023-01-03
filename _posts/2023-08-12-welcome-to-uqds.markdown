@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Data Science Seminar Series!"
-categories: [ Introduction ]
+categories: [ Introduction]
 author: yadan
 image: assets/images/uq_data_science.jpg
+tags: [welcome]
 date: 2022-12-30
 display-date: 2023-01-01
 ---
