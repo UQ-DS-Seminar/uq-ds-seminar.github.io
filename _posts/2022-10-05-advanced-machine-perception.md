@@ -4,7 +4,7 @@ title:  "Advancing Machine Perception for Artificial Intelligence Systems"
 author: yadan
 categories: [Zoom Webinar]
 image: assets/images/speakers/yuxin.jpeg
-tags: [Artificial Intelligence, Computer Vision, featured]
+tags: [Artificial Intelligence, Computer Vision]
 date: 2021-10-05
 display-date: 2022-10-05
 comments: True

@@ -4,7 +4,7 @@ title:  "A Non-Factoid Question-Answering Taxonomy"
 author: yadan
 categories: [Zoom Webinar]
 image: assets/images/speakers/valeriia.jpeg
-tags: [Information Retrieval, featured]
+tags: [Information Retrieval]
 date: 2021-11-09
 display-date: 2022-11-09
 comments: True
