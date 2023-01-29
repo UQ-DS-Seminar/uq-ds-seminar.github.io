@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escaping the Echo Chamber: The Quest for Normative News Recommender Systems"
+title:  "No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems"
 author: yadan
 categories: [In-Person, Zoom Webinar]
 image: assets/images/speakers/avi-headshot.jpeg
@@ -23,7 +23,7 @@ Reflecting the consequences of these findings for our discipline, this talk high
 Abraham Bernstein, Ph.D., is a Full Professor of Informatics at the University of Zurich (UZH), Switzerland. He received a Diploma in Computer Science from ETH Zurich and a Ph.D. in Management with a concentration in Information Technologies from the Sloan School of Management at MIT. His research focuses on various aspects of the semantic web, recommender systems, AI/data mining/machine learning, crowd computing, and collective intelligence. His work draws on both technical (computer science, artificial intelligence) and social science (organizational psychology/sociology/economics) foundations. He is also a founding Director of the University of Zurich's Digital Society Initiative (DSI) — an interdisciplinary research and teaching initiative with more than 180 faculty members ranging from divinity to veterinary medicine investigating all aspects of the interplay between society and the digitalization – and President of the Steering Committee of the Swiss National Science Foundation's Research Priority Program 77 on the Digital Transformation. He served as a member of the Council of Europe's Committee of experts on Human Rights Dimensions of automated data processing and different forms of artificial intelligence (MSI-AUT) as well as on the editorial boards of various top journals, including as a co-Editor in Chief at the Journal of Web Semantics or Associate Editor at the ACM Transactions on Internet Technologies and ACM Transactions on Interactive Intelligent Systems. He was elected as an individual member of the Swiss Academy of Technical Sciences in 2019.
 
 ## More Details
-+ When: Wed 22 Oct 2023, at 1:00 pm (GMT+10)
++ When: Wed 22 Feb 2023, at 1:00 pm (GMT+10)
 + Speaker: Prof Abraham Bernstein (University of Zurich)
 + Host: A/ Professor Gianluca Demartini
 + Zoom: https://uqz.zoom.us/j/82896549343

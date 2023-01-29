@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mobility Digital Twin for Connected and Automated Vehicles"
+title:  "No.23-09 Week Mobility Digital Twin for Connected and Automated Vehicles"
 author: yadan
 categories: [Zoom Webinar]
 image: assets/images/speakers/Ziran_Headshot.jpg
@@ -20,7 +20,7 @@ Dr. Ziran Wang is currently an Assistant Professor in the Lyles School of Civil 
 + When: Wed 26 Oct 2022, at 1:00 pm (GMT+10)
 + Speaker: Dr Ziran Wang (Purdue University)
 + Host: Dr Yadan Luo
-+ Zoom: TBD
++ Zoom: [https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
 
 
 ## Zoom Link
