@@ -2,7 +2,7 @@
 layout: post
 title:  "A Non-Factoid Question-Answering Taxonomy"
 author: yadan
-categories: [Zoom Webinar]
+categories: [RMIT University]
 image: assets/images/speakers/valeriia.jpeg
 tags: [Information Retrieval]
 date: 2021-11-09

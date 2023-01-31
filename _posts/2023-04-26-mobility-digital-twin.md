@@ -2,7 +2,7 @@
 layout: post
 title:  "No.23-09 Week Mobility Digital Twin for Connected and Automated Vehicles"
 author: yadan
-categories: [Zoom Webinar]
+categories: [Purdue University]
 image: assets/images/speakers/Ziran_Headshot.jpg
 tags: [Digital Twin, featured]
 date: 2022-04-26

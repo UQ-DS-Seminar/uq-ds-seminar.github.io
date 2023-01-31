@@ -2,21 +2,23 @@
 layout: post
 title:  "No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems"
 author: yadan
-categories: [In-Person, Zoom Webinar]
+categories: [University of Zurich]
 image: assets/images/speakers/avi-headshot.jpeg
 tags: [Semantic Web and Knowledge Discover, featured]
 date: 2023-01-01
 display-date: 2023-02-22
 comments: True
 ---
-Recommender systems and social networks are often faulted to be the cause for creating Echo Chambers – environments where people mostly encounter news that match their previous choices or those that are popular among similar users, resulting in their isolation inside familiar but insulated information silos. Echo chambers, in turn, have been attributed to be one cause for the polarization of society, which leads to the increased difficulty to promote tolerance, build consensus, and forge compromises. To escape these echo chambers, we propose to change the focus of recommender systems from optimizing prediction accuracy only to considering measures for social cohesion.
+
+Recommender systems and social networks are often faulted to be the cause for creating **Echo Chambers** – environments where people mostly encounter news that match their previous choices or those that are popular among similar users, resulting in their isolation inside familiar but insulated information silos. 
+> Echo chambers, in turn, have been attributed to be one cause for the polarization of society, which leads to the increased difficulty to promote tolerance, build consensus, and forge compromises. To escape these echo chambers, we propose to change the focus of recommender systems from optimizing prediction accuracy only to considering measures for social cohesion.
 
 This proposition raises questions in three spheres: In the technical sphere, we need to investigate how to build “socially considerate” recommender systems. To that end, we develop a novel recommendation framework with the goal of improving information diversity using a modified random walk exploration of the user-item graph.
 In the social sphere, we need to investigate if the adapted recommender systems have the desired effect. To that end, we present an empirical pilot study that exposed users to various sets (some diverse) of news with surprising results.
 Finally, in the normative sphere, these studies raise the question what kind of diversity is desirable for the functioning of democracy.
 
 Reflecting the consequences of these findings for our discipline, this talk highlights that computer science needs to increasingly engage with both the social and normative challenges of our work, possibly producing a new understanding of our discipline. It proposes similar consequences for other disciplines in that they increasingly need to embrace all three spheres.
-
+![UZH]({{ site.baseurl }}/assets/images/speakers/uzh.jpg)
 
 ## Short Bio
 

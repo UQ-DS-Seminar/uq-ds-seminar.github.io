@@ -4,7 +4,7 @@ title:  "No.23-02 Seven Algorithms for the Same Task (Testing Uniformity)"
 author: yadan
 categories: [Zoom Webinar]
 image: assets/images/speakers/clement.jpeg
-tags: [Distribution Testing, Learning Theory, featured]
+tags: [University of Sydney, featured]
 date: 2022-12-01
 display-date: 2023-03-01
 comments: True
