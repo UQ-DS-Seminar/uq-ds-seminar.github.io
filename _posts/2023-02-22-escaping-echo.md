@@ -29,7 +29,7 @@ Abraham Bernstein, Ph.D., is a Full Professor of Informatics at the University o
 + Speaker: Prof Abraham Bernstein (University of Zurich)
 + Host: A/ Professor Gianluca Demartini
 + Zoom: https://uqz.zoom.us/j/82896549343
-+ Venue: TBD
++ Venue: 45-204 - Mansergh Shaw Building, Learning Theatre
 
 
 
