@@ -2,10 +2,10 @@
 layout: post
 title:  "No.23-02 Seven Algorithms for the Same Task (Testing Uniformity)"
 author: yadan
-categories: [Zoom Webinar]
+categories: [University of Sydney]
 image: assets/images/speakers/clement.jpeg
-tags: [University of Sydney, featured]
-date: 2022-12-01
+tags: [Zoom Webinar, featured]
+date: 2022-12-20
 display-date: 2023-03-01
 comments: True
 ---

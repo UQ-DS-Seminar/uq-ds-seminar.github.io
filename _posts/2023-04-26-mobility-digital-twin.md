@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "No.23-09 Week Mobility Digital Twin for Connected and Automated Vehicles"
+title:  "No.23-09 Mobility Digital Twin for Connected and Automated Vehicles"
 author: yadan
 categories: [Purdue University]
 image: assets/images/speakers/Ziran_Headshot.jpg
 tags: [Digital Twin, featured]
-date: 2022-04-26
+date: 2022-12-17
 display-date: 2023-04-26
 comments: True
 ---
@@ -17,11 +17,11 @@ A Digital Twin is a digital replica of a living or nonliving physical entity, an
 Dr. Ziran Wang is currently an Assistant Professor in the Lyles School of Civil Engineering at Purdue University, where he directs the Purdue Digital Twin Lab. Previously, he worked as a Principal Researcher at Toyota Motor North America R&D in Silicon Valley, leading the Digital Twin roadmap at Toyota. Dr. Wang is serving as associate editor of IEEE Internet of Things Journal, IEEE Transactions on Intelligent Vehicles, and two other journals. He is also founding chair of IEEE Technical Committee on "Internet of Things in Intelligent Transportation Systems". Dr. Wang is an author of 40+ peer-review publications and 50+ patent applications.
 
 ## More Details
-+ When: Wed 26 Oct 2022, at 1:00 pm (GMT+10)
++ When: Wed 26 April 2023, at 1:00 pm (GMT+10)
 + Speaker: Dr Ziran Wang (Purdue University)
 + Host: Dr Yadan Luo
 + Zoom: [https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
 
 
 ## Zoom Link
-TBD
+[https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
