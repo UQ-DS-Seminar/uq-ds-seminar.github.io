@@ -5,7 +5,7 @@ author: yadan
 categories: [Pennsylvania State University]
 image: assets/images/speakers/akhil.jpg
 tags: [Business Process Management (BPM), featured]
-date: 2022-12-18
+date: 2022-12-11
 display-date: 2023-04-19
 comments: True
 ---

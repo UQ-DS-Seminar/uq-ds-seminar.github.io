@@ -4,8 +4,8 @@ title:  "No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recomm
 author: yadan
 categories: [University of Zurich]
 image: assets/images/speakers/avi-headshot.jpeg
-tags: [Semantic Web and Knowledge Discover, featured]
-date: 2023-01-01
+tags: [Semantic Web and Knowledge Discover]
+date: 2021-12-01
 display-date: 2023-02-22
 comments: True
 ---
@@ -28,7 +28,7 @@ Abraham Bernstein, Ph.D., is a Full Professor of Informatics at the University o
 + **When**: Wed 22 Feb 2023, at 1:00 pm (GMT+10) 
 + **Speaker**: Prof Abraham Bernstein (University of Zurich)
 + **Host**: A/ Professor Gianluca Demartini
-+ **Zoom**: https://uqz.zoom.us/j/82896549343
++ **Zoom**: [https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
 + **Venue**: Room 213 in Richards Building (5)
 
 

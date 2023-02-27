@@ -6,7 +6,7 @@ categories: [University of Sydney]
 image: assets/images/speakers/clement.jpeg
 tags: [Zoom Webinar, featured]
 date: 2022-12-20
-display-date: 2023-03-01
+display-date: 2023-03-08
 comments: True
 ---
 Suppose you get a set of (independent) data points in some discrete but huge domain {1,2,...,k}, and want to determine if this data is uniformly distributed. This is a basic and fundamental problem in Statistics, and has applications in computer science, not all made up: from testing the mixing time of a random walk, to detecting malicious changes in a data stream, to selecting a good algorithm depending on the input distribution.

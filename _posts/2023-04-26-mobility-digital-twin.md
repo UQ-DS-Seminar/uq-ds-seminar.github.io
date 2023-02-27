@@ -5,7 +5,7 @@ author: yadan
 categories: [Purdue University]
 image: assets/images/speakers/Ziran_Headshot.jpg
 tags: [Digital Twin, featured]
-date: 2022-12-17
+date: 2022-12-10
 display-date: 2023-04-26
 comments: True
 ---
