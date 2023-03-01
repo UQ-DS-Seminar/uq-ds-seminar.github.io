@@ -28,3 +28,4 @@ Clément Canonne is a Lecturer in the School of Computer Science of the Universi
 
 
 ## Zoom Recording
+<p><iframe style="width:100%;" height="515"  src="https://www.youtube.com/embed/e3MoOIG-Xl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
