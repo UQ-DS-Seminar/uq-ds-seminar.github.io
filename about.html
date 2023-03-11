@@ -4,19 +4,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>UQ Data Science Seminar Series | UQ-DS-Seminar</title>
+    <title>About | UQ-DS-Seminar</title>
 
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>UQ Data Science Seminar Series | UQ-DS-Seminar</title>
+<title>About | UQ-DS-Seminar</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="UQ Data Science Seminar Series" />
+<meta property="og:title" content="About" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="UQ Data Science Seminar Series." />
-<meta property="og:description" content="UQ Data Science Seminar Series." />
+<meta name="description" content="Official Site for Data Science Seminar Series, The University of Queensland." />
+<meta property="og:description" content="Official Site for Data Science Seminar Series, The University of Queensland." />
 <meta property="og:site_name" content="UQ-DS-Seminar" />
-<link rel="next" href="/page2" />
+<meta property="og:image" content="/assets/images/screenshot.jpg" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/logo.png"}},"@type":"WebSite","headline":"UQ Data Science Seminar Series","url":"/","name":"UQ-DS-Seminar","description":"UQ Data Science Seminar Series.","@context":"http://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/logo.png"}},"@type":"WebPage","headline":"About","image":"/assets/images/screenshot.jpg","url":"/about.html","description":"Official Site for Data Science Seminar Series, The University of Queensland.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -45,7 +45,7 @@
 
 </head>
 
-<body class=" homefirstpage ">
+<body class="">
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
@@ -104,17 +104,17 @@ var documents = [{
     "id": 2,
     "url": "/author-jane.html",
     "title": "Jane",
-    "body": "                        Jane Follow:                                                    Posts by Jane:               "
+    "body": "                        {{page. title}} Follow:         {{ site. authors. jane. site }}         {{ site. authors. jane. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , jane  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
     }, {
     "id": 3,
     "url": "/author-sal.html",
     "title": "Sal",
-    "body": "                        Sal Follow:         https://luoyadan. github. io/                                           Posts by Sal:               "
+    "body": "                        {{page. title}} Follow:         {{ site. authors. yadan. site }}         {{ site. authors. yadan. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , sal  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
     }, {
     "id": 4,
     "url": "/authors-list.html",
     "title": "Authors",
-    "body": "Authors:                                             Yadan Luo :       (View Posts)                                &nbsp;       &nbsp;                                      "
+    "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
     }, {
     "id": 5,
     "url": "/buy-me-a-coffee.html",
@@ -124,17 +124,17 @@ var documents = [{
     "id": 6,
     "url": "/categories.html",
     "title": "Categories",
-    "body": "          Categories               University of Technology Sydney:                                  		Advancing Machine Perception for Artificial Intelligence Systems	: 		  Artificial intelligence (AI) techniques have impacted on our lives profoundly, such as providing more secured and resilient social environments and assisting more accurate medical dia. . . 	 			From 				University of Technology Sydney, 								Oct 05, 2022						                              Texas A&amp;M University:                                  		LibAUC: A deep learning library for X-risk Optimization	: 		  In this talk, I will present our recent research efforts of developing a deep learning library called LibAUC, which is applicable for solving a variety of compositional measures.  I w. . . 	 			From 				Texas A&amp;M University, 								Oct 26, 2022						                              RMIT University:                                  		A Non-Factoid Question-Answering Taxonomy	: 		  Non-factoid question answering (NFQA) is a challenging and under-researched task that requires constructing long-form answers, such as explanations or opinions, to open-ended non-fact. . . 	 			From 				RMIT University, 								Nov 09, 2022						                              University of Zurich:                                  		No. 23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems	: 		  Recommender systems and social networks are often faulted to be the cause for creating Echo Chambers – environments where people mostly encounter news that match their previous choice. . . 	 			From 				University of Zurich, 								Feb 22, 2023						                              University of Sydney:                                  		No. 23-02 Seven Algorithms for the Same Task (Testing Uniformity)	: 		  Suppose you get a set of (independent) data points in some discrete but huge domain {1,2,…,k}, and want to determine if this data is uniformly distributed. This is a basic and fundame. . . 	 			From 				University of Sydney, 								Mar 08, 2023						                              Australian National University:                                  		No. 23-04 Multi-Domain Few-Shot Image Classification 	: 		  Most existing few-shot classification methods only consider generalization on one dataset (i. e. , single-domain), failing to transfer across various seen and unseen domains. In this ta. . . 	 			From 				Australian National University, 								Mar 15, 2023						                                 		No. 23-03 Score based Diffusion Models and Their Applications 	: 		  Generative models show great potential in generating new samples, which have been extensively investigated in 2D/3D vision tasks. Among them, the adversarial training based models, e. . . . 	 			From 				Australian National University, 								Mar 01, 2023						                              Humboldt-Universität zu Berlin (HU):                                  		No. 23-0301 Efficient Distributed Complex Event Processing	: 		  Complex event processing emerged as a computational paradigm to detect patterns in event streams based on the continuous evaluation of event queries. Once such queries are evaluated i. . . 	 			From 				Humboldt-Universität zu Berlin (HU), 								Mar 09, 2023						                              Weights &amp; Biases:                                  		No. 23-11 Building Experiment Tracking at Scale with Weights &amp; Biases	: 		  Building experiments doesn’t just end once the model is deployed. Teams need to monitor their models in production and use their findings to iterate further. Especially when dealing w. . . 	 			From 				Weights &amp; Biases, 								May 10, 2023						                              Purdue University:                                  		No. 23-09 Mobility Digital Twin for Connected and Automated Vehicles	: 		  A Digital Twin is a digital replica of a living or nonliving physical entity, and this emerging technology attracted extensive attention from different industries during the past deca. . . 	 			From 				Purdue University, 								Apr 26, 2023						                              Pennsylvania State University:                                  		No. 23-08 Normalizing Object-Centric Process Logs by Applying Database Principles 	: 		  Much work has been done in process mining in the last two decades, where the focus of most efforts has been on unearthing the process models from log traces where each trace could be. . . 	 			From 				Pennsylvania State University, 								Apr 19, 2023						                              Delft University of Technology:                                  		No. 23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems	: 		  The unprecedented rise in the adoption of artificial intelligence techniques and automation in many contexts is concomitant with the shortcomings of such technology concerning robustn. . . 	 			From 				Delft University of Technology, 								Mar 22, 2023						                              Introduction:                                  		Welcome to UQ Data Science Seminar Series!	: 		  This UQ Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending to have a diverse set of talks and speakers on to. . . 	 			From 				Introduction, 								Jan 01, 2023						                                             Upcoming:    				                                          No. 23-04 Multi-Domain Few-Shot Image Classification                           From                     Australian National University,                                                                                           No. 23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems                          From                     Delft University of Technology,                                                                                           No. 23-08 Normalizing Object-Centric Process Logs by Applying Database Principles                           From                     Pennsylvania State University,                                                                                           No. 23-09 Mobility Digital Twin for Connected and Automated Vehicles                          From                     Purdue University,                                                                                           No. 23-11 Building Experiment Tracking at Scale with Weights &amp; Biases                          From                     Weights &amp; Biases,                                                                   "
+    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
     }, {
     "id": 7,
     "url": "/contact.html",
     "title": "Contact",
-    "body": "  Please send your message to UQ-DS-Seminar. We will reply as soon as possible!   "
+    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
     }, {
     "id": 8,
     "url": "/",
     "title": "UQ Data Science Seminar Series",
-    "body": "                                Welcome to UQ Data Science Seminar Series!  :       This UQ Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending. . .               From                 Introduction,                                        Jan 01, 2023                                                                                                                             No. 23-04 Multi-Domain Few-Shot Image Classification           :                       From                         Australian National University,                                                                  Mar 15, 2023                                                                                                                                     No. 23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems          :                       From                         Delft University of Technology,                                                                  Mar 22, 2023                                                                                                                                    No. 23-08 Normalizing Object-Centric Process Logs by Applying Database Principles           :                       From                         Pennsylvania State University,                                                                  Apr 19, 2023                                                           All Talks:                   		Welcome to UQ Data Science Seminar Series!	: 		  This UQ Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending to have a diverse set of talks and speakers on to. . . 	 			From 				Introduction, 								Jan 01, 2023						                  		No. 23-04 Multi-Domain Few-Shot Image Classification 	: 		  Most existing few-shot classification methods only consider generalization on one dataset (i. e. , single-domain), failing to transfer across various seen and unseen domains. In this ta. . . 	 			From 				Australian National University, 								Mar 15, 2023						                  		No. 23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems	: 		  The unprecedented rise in the adoption of artificial intelligence techniques and automation in many contexts is concomitant with the shortcomings of such technology concerning robustn. . . 	 			From 				Delft University of Technology, 								Mar 22, 2023						                  		No. 23-08 Normalizing Object-Centric Process Logs by Applying Database Principles 	: 		  Much work has been done in process mining in the last two decades, where the focus of most efforts has been on unearthing the process models from log traces where each trace could be. . . 	 			From 				Pennsylvania State University, 								Apr 19, 2023						                  		No. 23-09 Mobility Digital Twin for Connected and Automated Vehicles	: 		  A Digital Twin is a digital replica of a living or nonliving physical entity, and this emerging technology attracted extensive attention from different industries during the past deca. . . 	 			From 				Purdue University, 								Apr 26, 2023						                  		No. 23-11 Building Experiment Tracking at Scale with Weights &amp; Biases	: 		  Building experiments doesn’t just end once the model is deployed. Teams need to monitor their models in production and use their findings to iterate further. Especially when dealing w. . . 	 			From 				Weights &amp; Biases, 								May 10, 2023						                  		No. 23-0301 Efficient Distributed Complex Event Processing	: 		  Complex event processing emerged as a computational paradigm to detect patterns in event streams based on the continuous evaluation of event queries. Once such queries are evaluated i. . . 	 			From 				Humboldt-Universität zu Berlin (HU), 								Mar 09, 2023						                  		No. 23-03 Score based Diffusion Models and Their Applications 	: 		  Generative models show great potential in generating new samples, which have been extensively investigated in 2D/3D vision tasks. Among them, the adversarial training based models, e. . . . 	 			From 				Australian National University, 								Mar 01, 2023						                  		No. 23-02 Seven Algorithms for the Same Task (Testing Uniformity)	: 		  Suppose you get a set of (independent) data points in some discrete but huge domain {1,2,…,k}, and want to determine if this data is uniformly distributed. This is a basic and fundame. . . 	 			From 				University of Sydney, 								Mar 08, 2023						                  		No. 23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems	: 		  Recommender systems and social networks are often faulted to be the cause for creating Echo Chambers – environments where people mostly encounter news that match their previous choice. . . 	 			From 				University of Zurich, 								Feb 22, 2023						                                                &laquo;                              1                               2                              Next &raquo;                                          Upcoming:    				                                          No. 23-04 Multi-Domain Few-Shot Image Classification                           From                     Australian National University,                                                                                           No. 23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems                          From                     Delft University of Technology,                                                                                           No. 23-08 Normalizing Object-Centric Process Logs by Applying Database Principles                           From                     Pennsylvania State University,                                                                                           No. 23-09 Mobility Digital Twin for Connected and Automated Vehicles                          From                     Purdue University,                                                                                           No. 23-11 Building Experiment Tracking at Scale with Weights &amp; Biases                          From                     Weights &amp; Biases,                                                               "
+    "body": "  {% if page. url ==  /  %}          {% assign latest_post = site. posts[0] %}          &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;           {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               From         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                                {{ latest_post. display-date | date: '%b %d, %Y' }}                            {%- assign second_post = site. posts[1] -%}                        {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %}{{ second_post. image | absolute_url }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                                    {{ second_post. title }}          :                       From             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                                      {{ second_post. display-date | date: '%b %d, %Y' }}                                    {%- assign third_post = site. posts[2] -%}                        {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                                    {{ third_post. title }}          :                       From             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                                      {{ third_post. display-date | date: '%b %d, %Y' }}                                    {%- assign fourth_post = site. posts[3] -%}                        {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                                    {{ fourth_post. title }}          :                       From             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                                      {{ fourth_post. display-date | date: '%b %d, %Y' }}                                  {% for post in site. posts %} {% if post. tags contains  sticky  %}                    {{post. title}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Read More            	             {% endif %}{% endfor %}  {% endif %}                All Talks:         {% for post in paginator. posts %}          {% include main-loop-card. html %}        {% endfor %}                   {% if paginator. total_pages &gt; 1 %}              {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}                     {% include sidebar-featured. html %}      "
     }, {
     "id": 9,
     "url": "/privacy-policy.html",
@@ -288,588 +288,48 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         <div class="container">
-    
+<h3 class="font-weight-bold spanborder"><span>About</span></h3>
+<div class="row">
+    <div class="col-md-8">
+     
+    <img class="card-img-top mb-5 shadow-lg" src="/assets/images/screenshot.jpg" alt="About"> 
+     
+    <div class="page-content">
+        <p>Made with <a href="https://itee.uq.edu.au/data-science">Data Science Discipline</a>, The University of Queensland.</p>
 
-    
-    
-    
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
+        <!-- Comments -->
+        
+        <!--  Don't edit anything here. Set your disqus id in _config.yml -->
 
-    <!-- latest post -->
-    
-    <div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">   
-    <a href="/welcome-to-uqds/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/uq_data_science.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/welcome-to-uqds/">Welcome to UQ Data Science Seminar Series!</a>
-    </h2>
-    <p class="excerpt">
-        This UQ Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending...
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            From <span class="catlist">
-                
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#introduction">Introduction</a><span class="sep">, </span>
-                
-                </span>                   
-        </small>
-        <small class="text-muted">
-            Jan 01, 2023
-        </small>
+<div id="comments" class="mt-5">
+    <div id="disqus_thread">
+    </div>
+    <script type="text/javascript">
+        var disqus_shortname = 'https-uq-ds-seminar-github-io'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>
+    Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+</div>
+        
     </div>
     </div>
-    </div>
-    </div>
-    
-    <div class="col-md-6">
-        
-        <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/multidomain-fewshot/">
-                 <img class="w-100" src="/assets/images/speakers/yanbin.jpg" alt="No.23-04 Multi-Domain Few-Shot Image Classification ">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/multidomain-fewshot/">No.23-04 Multi-Domain Few-Shot Image Classification </a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        From <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#australian national university">Australian National University</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Mar 15, 2023
-                    </small>
-                </div>
-            </div>
-        
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/human-quotient-ai-systems/">
-                 <img class="w-100" src="/assets/images/speakers/UG5.png" alt="No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/human-quotient-ai-systems/">No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        From <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#delft university of technology">Delft University of Technology</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Mar 22, 2023
-                    </small>
-                </div>
-            </div>
-        
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/normalizing-object-centric/">
-                <img class="w-100" src="/assets/images/speakers/akhil.jpg" alt="No.23-08 Normalizing Object-Centric Process Logs by Applying Database Principles ">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/normalizing-object-centric/">No.23-08 Normalizing Object-Centric Process Logs by Applying Database Principles </a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        From <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#pennsylvania state university">Pennsylvania State University</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Apr 19, 2023
-                    </small>
-                </div>
-            </div>
-        
-    </div>
-    
-</div>
-    
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-
-    
-
-
- <!--endif page url is / -->
-    
-
-
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-    
-<div class="row mt-3">
-   
-    <div class="col-md-8 main-loop">
-        
-        <h4 class="font-weight-bold spanborder"><span>All Talks</span></h4>
-        
-
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/welcome-to-uqds/">Welcome to UQ Data Science Seminar Series!</a>
-	</h2>
-	<p class="excerpt">
-	   This UQ Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending to have a diverse set of talks and speakers on to...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#introduction">Introduction</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 01, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/welcome-to-uqds/">
-	<img class="w-100" src="/assets/images/uq_data_science.jpg" alt="Welcome to UQ Data Science Seminar Series!">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/multidomain-fewshot/">No.23-04 Multi-Domain Few-Shot Image Classification </a>
-	</h2>
-	<p class="excerpt">
-	   Most existing few-shot classification methods only consider generalization on one dataset (i.e., single-domain), failing to transfer across various seen and unseen domains. In this ta...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#australian national university">Australian National University</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Mar 15, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/multidomain-fewshot/">
-	<img class="w-100" src="/assets/images/speakers/yanbin.jpg" alt="No.23-04 Multi-Domain Few-Shot Image Classification ">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/human-quotient-ai-systems/">No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems</a>
-	</h2>
-	<p class="excerpt">
-	   The unprecedented rise in the adoption of artificial intelligence techniques and automation in many contexts is concomitant with the shortcomings of such technology concerning robustn...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#delft university of technology">Delft University of Technology</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Mar 22, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/human-quotient-ai-systems/">
-	<img class="w-100" src="/assets/images/speakers/UG5.png" alt="No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/normalizing-object-centric/">No.23-08 Normalizing Object-Centric Process Logs by Applying Database Principles </a>
-	</h2>
-	<p class="excerpt">
-	   Much work has been done in process mining in the last two decades,  where the focus of most efforts has been on unearthing the process models from log traces where each trace could be...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#pennsylvania state university">Pennsylvania State University</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Apr 19, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/normalizing-object-centric/">
-	<img class="w-100" src="/assets/images/speakers/akhil.jpg" alt="No.23-08 Normalizing Object-Centric Process Logs by Applying Database Principles ">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/mobility-digital-twin/">No.23-09 Mobility Digital Twin for Connected and Automated Vehicles</a>
-	</h2>
-	<p class="excerpt">
-	   A Digital Twin is a digital replica of a living or nonliving physical entity, and this emerging technology attracted extensive attention from different industries during the past deca...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#purdue university">Purdue University</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Apr 26, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/mobility-digital-twin/">
-	<img class="w-100" src="/assets/images/speakers/Ziran_Headshot.jpg" alt="No.23-09 Mobility Digital Twin for Connected and Automated Vehicles">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/weights-biases/">No.23-11 Building Experiment Tracking at Scale with Weights & Biases</a>
-	</h2>
-	<p class="excerpt">
-	   Building experiments doesn’t just end once the model is deployed. Teams need to monitor their models in production and use their findings to iterate further. Especially when dealing w...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#weights & biases">Weights & Biases</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		May 10, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/weights-biases/">
-	<img class="w-100" src="/assets/images/speakers/Andrea.png" alt="No.23-11 Building Experiment Tracking at Scale with Weights & Biases">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/efficient-event-processing/">No.23-0301 Efficient Distributed Complex Event Processing</a>
-	</h2>
-	<p class="excerpt">
-	   Complex event processing emerged as a computational paradigm to detect patterns in event streams based on the continuous evaluation of event queries. Once such queries are evaluated i...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#humboldt-universität zu berlin (hu)">Humboldt-Universität zu Berlin (HU)</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Mar 09, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/efficient-event-processing/">
-	<img class="w-100" src="/assets/images/speakers/matthias.jpeg" alt="No.23-0301 Efficient Distributed Complex Event Processing">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/score-based-diffusiony/">No.23-03 Score based Diffusion Models and Their Applications </a>
-	</h2>
-	<p class="excerpt">
-	   Generative models show great potential in generating new samples, which have been extensively investigated in 2D/3D vision tasks. Among them, the adversarial training based models, e....
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#australian national university">Australian National University</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Mar 01, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/score-based-diffusiony/">
-	<img class="w-100" src="/assets/images/speakers/jing.jpeg" alt="No.23-03 Score based Diffusion Models and Their Applications ">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/testing-uniformity/">No.23-02 Seven Algorithms for the Same Task (Testing Uniformity)</a>
-	</h2>
-	<p class="excerpt">
-	   Suppose you get a set of (independent) data points in some discrete but huge domain {1,2,…,k}, and want to determine if this data is uniformly distributed. This is a basic and fundame...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of sydney">University of Sydney</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Mar 08, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/testing-uniformity/">
-	<img class="w-100" src="/assets/images/speakers/clement.jpeg" alt="No.23-02 Seven Algorithms for the Same Task (Testing Uniformity)">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/escaping-echo/">No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems</a>
-	</h2>
-	<p class="excerpt">
-	   Recommender systems and social networks are often faulted to be the cause for creating Echo Chambers – environments where people mostly encounter news that match their previous choice...
-	</p>
-	<small class="d-block text-muted">
-		From <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of zurich">University of Zurich</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Feb 22, 2023
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/escaping-echo/">
-	<img class="w-100" src="/assets/images/speakers/avi-headshot.jpeg" alt="No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems">
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-        <div class="mt-5">
-         <!-- Pagination links -->
-            
-            <ul class="pagination"> 
-              
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              
-
-              
-                
-                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
-                
-              
-
-              
-                <li class="page-item"><a class="page-link" href="/page2">Next &raquo;</a></li>
-              
-            </ul>
-                  
-        </div>
-        
-    </div>
-    
     <div class="col-md-4">
-        <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Upcoming</span></h4>  
-    <ol class="list-featured">				
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/multidomain-fewshot/" class="text-dark">No.23-04 Multi-Domain Few-Shot Image Classification </a>
-                </h6>
-                <span class="d-block text-muted">
-                    From <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#australian national university">Australian National University</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/human-quotient-ai-systems/" class="text-dark">No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems</a>
-                </h6>
-                <span class="d-block text-muted">
-                    From <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#delft university of technology">Delft University of Technology</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/normalizing-object-centric/" class="text-dark">No.23-08 Normalizing Object-Centric Process Logs by Applying Database Principles </a>
-                </h6>
-                <span class="d-block text-muted">
-                    From <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#pennsylvania state university">Pennsylvania State University</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/mobility-digital-twin/" class="text-dark">No.23-09 Mobility Digital Twin for Connected and Automated Vehicles</a>
-                </h6>
-                <span class="d-block text-muted">
-                    From <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#purdue university">Purdue University</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/weights-biases/" class="text-dark">No.23-11 Building Experiment Tracking at Scale with Weights & Biases</a>
-                </h6>
-                <span class="d-block text-muted">
-                    From <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#weights & biases">Weights & Biases</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-           
-    </ol>
-</div>     
+        <h5 class="mb-3">Mundana Jekyll Theme</h5>
+
+<p>Hi! The website you are previewing is a demonstration for Mundana Jekyll theme, hosted on Github, made by <a href="https://www.wowthemes.net/donate/">Sal</a>.</p>
+
+<a target="_blank" href="https://www.wowthemes.net/mundana-jekyll-theme/" class="btn btn-warning d-block mb-2"><i class="fa fa-file"></i> Documentation</a>
+
+<a target="_blank" class="btn btn-danger d-block" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee</a> 
     </div>
-    
-</div>
-
-
-
+</div>  
 </div>
     </main>
 
