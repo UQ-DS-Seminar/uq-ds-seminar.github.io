@@ -4,8 +4,8 @@ title:  "No.23-0301 Efficient Distributed Complex Event Processing"
 author: yadan
 categories: [Humboldt-Universität zu Berlin (HU)]
 image: assets/images/speakers/matthias.jpeg
-tags: [Zoom Webinar, featured]
-date: 2022-12-18
+tags: [Zoom Webinar]
+date: 2021-12-04
 display-date: 2023-03-09
 comments: True
 ---
@@ -26,4 +26,6 @@ Matthias Weidlich is a full professor at the Department of Computer Science at H
 
 
 
+
 ## Zoom Recording
+[Zoom Recording Link](https://uqz.zoom.us/rec/share/stOC5sjwRR66BQlj3IedoOnzfByz69eexT3Fxp3_q7AAUrxGVARD6NNMZuWis-LK.ONjDTDu98-2Sk8Rx?startTime=1678331467000)

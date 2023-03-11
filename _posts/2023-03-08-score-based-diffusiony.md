@@ -4,8 +4,8 @@ title:  "No.23-03 Score based Diffusion Models and Their Applications "
 author: yadan
 categories: [Australian National University]
 image: assets/images/speakers/jing.jpeg
-tags: [Zoom Webinar, featured]
-date: 2022-12-19
+tags: [Zoom Webinar]
+date: 2021-12-03
 display-date: 2023-03-01
 comments: True
 ---
@@ -25,3 +25,4 @@ Jing Zhang is currently a Lecturer with School of Computing, the Australian Nati
 
 
 ## Zoom Recording
+[Zoom Recording Link](https://uqz.zoom.us/rec/share/TazrO5g3h1T6Z9bnpkDd5uDfnMrPuJqDLBbNw0-yE4AhgVB0QG-Ch3RppGjxPjlk.mL88KL7Fc-xvF7JU?startTime=1678244404000)
