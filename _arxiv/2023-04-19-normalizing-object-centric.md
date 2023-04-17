@@ -4,7 +4,7 @@ title:  "No.23-08 Normalizing Object-Centric Process Logs by Applying Database P
 author: yadan
 categories: [Pennsylvania State University]
 image: assets/images/speakers/akhil.jpg
-tags: [Business Process Management (BPM), featured]
+tags: [Business Process Management (BPM)]
 date: 2022-12-11
 display-date: 2023-04-19
 comments: True

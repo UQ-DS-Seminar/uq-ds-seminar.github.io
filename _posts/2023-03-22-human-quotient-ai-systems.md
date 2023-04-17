@@ -4,8 +4,8 @@ title:  "No.23-05 A magic ingredient, a secret spice, a special blend, for it ca
 author: yadan
 categories: [Delft University of Technology]
 image: assets/images/speakers/UG5.png
-tags: [Zoom Webinar, featured]
-date: 2022-12-17
+tags: [Zoom Webinar]
+date: 2022-12-06
 display-date: 2023-03-22
 comments: True
 ---
