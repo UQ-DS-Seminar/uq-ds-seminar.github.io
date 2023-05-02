@@ -4,8 +4,8 @@ title:  "No.23-09 Mobility Digital Twin for Connected and Automated Vehicles"
 author: yadan
 categories: [Purdue University]
 image: assets/images/speakers/Ziran_Headshot.jpg
-tags: [Digital Twin, featured]
-date: 2022-12-10
+tags: [Digital Twin]
+date: 2022-12-07
 display-date: 2023-04-26
 comments: True
 ---
@@ -25,3 +25,7 @@ Dr. Ziran Wang is currently an Assistant Professor in the Lyles School of Civil 
 
 ## Zoom Link
 [https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
+
+
+## Recording
+[https://uqz.zoom.us/rec/share/1U2Ggz11k22k1GAd9GAEYf9lslorHugKYvgiVcHxZYtHiAe-i9UYe2cdWZRI2A80.HCDhWYFU0J90B7PC?startTime=1682477806000](https://uqz.zoom.us/rec/share/1U2Ggz11k22k1GAd9GAEYf9lslorHugKYvgiVcHxZYtHiAe-i9UYe2cdWZRI2A80.HCDhWYFU0J90B7PC?startTime=1682477806000)

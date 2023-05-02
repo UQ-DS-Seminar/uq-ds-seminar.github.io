@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "No.23-08 Concept Drift Adaptation for Multiple Streams with Temporal Dependence"
+title:  "No.23-13 Concept Drift Adaptation for Multiple Streams with Temporal Dependence"
 author: yadan
 categories: [RMIT]
 image: assets/images/speakers/yiliao.jpg
-tags: [Zoom Webinar, featured]
-date: 2022-12-11
+tags: [Zoom Webinar]
+date: 2022-12-08
 display-date: 2023-04-19
 comments: True
 ---
@@ -16,7 +16,7 @@ Dr. Yiliao Song is a research fellow in Enterprise AI and analytics Hub at RMIT 
 
 
 ## More Details
-+ When: Wed 19 April 2023, at 1:00 pm (GMT+10)
++ When: Wed 24 May 2023, at 1:00 pm (GMT+10)
 + Speaker: Dr Yiliao Song (RMIT)
 + Host: Dr Xin Yu
 + Zoom: [https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
