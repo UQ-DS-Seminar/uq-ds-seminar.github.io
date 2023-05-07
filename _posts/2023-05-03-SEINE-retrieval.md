@@ -4,8 +4,8 @@ title:  "No.23-10 SEINE: SEgment-based Indexing for NEural Information Retrieval
 author: yadan
 categories: [Georgetown University]
 image: assets/images/speakers/grace.jpg
-tags: [Zoom Webinar,featured]
-date: 2022-12-13
+tags: [Zoom Webinar]
+date: 2022-12-08
 display-date: 2023-05-03
 comments: True
 ---
