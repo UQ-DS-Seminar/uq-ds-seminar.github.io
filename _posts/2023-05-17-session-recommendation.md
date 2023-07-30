@@ -4,7 +4,7 @@ title:  "No.23-12 An Introduction to Sequential/Session-based Recommendation "
 author: yadan
 categories: [University of Technology Sydney]
 image: assets/images/speakers/shoujin.jpg
-tags: [Zoom Webinar,featured]
+tags: [Zoom Webinar]
 date: 2022-12-10
 display-date: 2023-05-17
 comments: True
