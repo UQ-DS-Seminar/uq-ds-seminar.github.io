@@ -26,4 +26,4 @@ Akari Asai is a Ph.D. student in the Paul G. Allen School of Computer Science & 
 
 ## Zoom Recording
 [Zoom link](https://uqz.zoom.us/rec/share/7As4CLLjuJJVqO35--KjqC84Yj3TV1D0i5lTyauUbT7HKwXuvRYSAQHZMQyvX-cU.oNJEb4IFpSfhyNr8)
-<p><iframe style="width:100%;" height="515"  src="https://youtu.be/M0novA72H2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="515"  src="https://www.youtube.com/embed/M0novA72H2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

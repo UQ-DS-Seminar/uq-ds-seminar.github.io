@@ -25,7 +25,8 @@ authors:
       bio:            ""
       email:          y.luo@uq.edu.au
      
-
+# Dimensions
+max_width: 1080px
 
  
 # Defaults
