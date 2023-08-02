@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No.24 Task-aware Retrieval with Instructions "
+title:  "No.23-13 Task-aware Retrieval with Instructions "
 author: yadan
 categories: [University of Washington]
 image: assets/images/speakers/akari.jpg
