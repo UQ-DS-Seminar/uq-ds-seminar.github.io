@@ -17,11 +17,13 @@ Akari Asai is a Ph.D. student in the Paul G. Allen School of Computer Science & 
 
 ## More Details
 + When: Wed 02 Aug 2023, at 1:00 pm (GMT+10)
-+ Speaker: Dr Akari Asai (University of Washington)
-+ Host: Prof GUido Zuccon
++ Speaker: Akari Asai (University of Washington)
++ Host: Prof Guido Zuccon
 + Zoom: [https://uqz.zoom.us/j/82896549343](https://uqz.zoom.us/j/82896549343)
 
 
 
 
 ## Zoom Recording
+[Zoom link](https://uqz.zoom.us/rec/share/7As4CLLjuJJVqO35--KjqC84Yj3TV1D0i5lTyauUbT7HKwXuvRYSAQHZMQyvX-cU.oNJEb4IFpSfhyNr8)
+<p><iframe style="width:100%;" height="515"  src="https://youtu.be/M0novA72H2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
