@@ -4,7 +4,7 @@ title:  "No.23-13 Task-aware Retrieval with Instructions "
 author: yadan
 categories: [University of Washington]
 image: assets/images/speakers/akari.jpg
-tags: [Zoom Webinar,featured]
+tags: [Zoom Webinar]
 date: 2022-12-10
 display-date: 2023-08-02
 comments: True

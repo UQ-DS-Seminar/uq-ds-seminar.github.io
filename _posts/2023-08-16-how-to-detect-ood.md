@@ -2,7 +2,7 @@
 layout: post
 title:  "No.23-15 How to Detect Out-of-Distribution Data in the Wild? Challenges, Research Progress and Path Forward"
 author: yadan
-categories: [University of Washington]
+categories: [University of Wisconsin-Madison]
 image: assets/images/speakers/yixuanli-2019.jpg
 tags: [Zoom Webinar,featured]
 date: 2022-12-10
