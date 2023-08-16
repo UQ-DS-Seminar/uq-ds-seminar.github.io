@@ -25,3 +25,5 @@ Sharon Yixuan Li is an Assistant Professor in the Department of Computer Science
 
 
 ## Zoom Recording
+[Zoom Link](https://uqz.zoom.us/rec/share/lNWBDXDSIpYqoHcMA5UQkPwLyaFukgxdEn3nPHYgQwjp6z0jC1lN0yTNStTIPZ9-.z8No0HYq2PEts1r4)
+<p><iframe style="width:100%;" height="515"  src="https://www.youtube.com/embed/Ga09-9JItxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
