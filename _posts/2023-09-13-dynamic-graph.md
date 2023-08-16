@@ -6,7 +6,7 @@ categories: [DATA61-CSIRO]
 image: assets/images/speakers/yanping.jpg
 tags: [featured]
 date: 2022-12-11
-display-date: 2023-09-19
+display-date: 2023-09-13
 comments: True
 ---
 In real-world applications such as social networks, financial transactions, and recommender systems, graph-structured data is frequently dynamic, with the nodes and edges of the graph constantly developing dynamically. While Graph Neural Networks (GNNs) have risen as formidable tools for modeling graph-structured data, their adaptation to dynamic graphs introduces distinct challenges. First, any alteration in the graph necessitates a complete relearning of the graph representation matrix, which is expensive and time-consuming. Secondly, even as existing dynamic GNNs are optimized for learning temporal information, they encounter difficulties in scaling to large, evolving graphs. To address these problems, my research focuses on improving the scalability and expressiveness of dynamic graph neural networks.
