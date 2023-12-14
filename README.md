@@ -1,45 +1,56 @@
 # UQ DS Seminar Website
-[Web Link](https://uq-ds-seminar.github.io/)
+### [Web Link](https://uq-ds-seminar.github.io/)
 
-### Documentation
+## Documentation
 
 [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
 ### Contribute to Mundana repository
 
-1. In the top-right corner of this page, click **Fork**.
+1. **Clone a copy of your fork on your local**
 
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+   `git clone https://github.com/Luoyadan/UQDS-Seminar.git`
 
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+2. **Set up Jekyll**: 
 
-3. **Create a branch**: 
+   Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*)
 
-   `git checkout -b <my-new-feature-or-fix>`
+   ```bash
+   $ bundle install
+   # assuming pip is your Python package manager
+   $ pip install jupyter
+   $ bundle exec jekyll serve --lsi
+   ```
 
-4. **Make necessary changes and commit those changes**:
+3. **Make necessary changes and commit those changes**:
+   To advertise new talks, please go to `_posts` folder and create a new markdown file
+
+   - For speaker profile: please upload to `assets/images/speakers/`
+   - `date` is just for ordering old/new talks; `display_date` will be appeared on web
+   - For upcoming seminar, simply mark them `featured` in the `tags` attribute
+
+   Once you finished your edits, add and commit those changes by:
 
    `git add .`
 
-   `git commit -m "new feature or fix"`
+   `git commit -m "updates"`
 
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+   
 
-   `git push origin <add-your-branch-name>`
+2. **Push changes and deployment**
 
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
+   `git push`
 
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+   Then, to allow those changes to be activated, use the helper function:
+
+   `bin/deploy --user`
+
+   Then you will see the following message for successful deployment:
+
+   ![deploy](assets/deploy.png)
 
 
-### Copyright
 
-Copyright (C) 2019 WowThemes.net.
+That's it! Soon I'll be merging your changes into the master branch of this project. 
 
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
