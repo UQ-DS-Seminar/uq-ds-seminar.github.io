@@ -4,7 +4,7 @@ title:  "No.23-16 Generalized Out-of-distribution Detection: Theory and Algorith
 author: yadan
 categories: [University of Technology Sydney]
 image: assets/images/speakers/Zhen_Fang.jpeg
-tags: [Zoom Webinar,featured]
+tags: [Machine Learning]
 date: 2022-12-11
 display-date: 2023-08-23
 comments: True

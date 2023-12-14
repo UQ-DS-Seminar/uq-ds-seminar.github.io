@@ -4,7 +4,7 @@ title:  "No.23-15 How to Detect Out-of-Distribution Data in the Wild? Challenges
 author: yadan
 categories: [University of Wisconsin-Madison]
 image: assets/images/speakers/yixuanli-2019.jpg
-tags: [Zoom Webinar,featured]
+tags: [Machine Learning]
 date: 2022-12-10
 display-date: 2023-08-16
 comments: True

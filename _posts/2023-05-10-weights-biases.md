@@ -4,7 +4,7 @@ title:  "No.23-11 Building Experiment Tracking at Scale with Weights & Biases"
 author: yadan
 categories: [Weights & Biases]
 image: assets/images/speakers/Andrea.png
-tags: [Weights & Biases]
+tags: [Tools]
 date: 2022-12-09
 display-date: 2023-05-10
 comments: True

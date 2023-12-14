@@ -4,7 +4,7 @@ title: "No.23-22 Process Mining: Opportunities and Challenges"
 author: yadan
 categories: [University of Queensland]
 image: assets/images/speakers/moe.jpg
-tags: [featured]
+tags: [Information Systems]
 date: 2022-12-11
 display-date: 2023-09-13
 comments: True

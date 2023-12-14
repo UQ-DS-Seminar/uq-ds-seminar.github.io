@@ -4,7 +4,7 @@ title:  "No.23-03 Score based Diffusion Models and Their Applications "
 author: yadan
 categories: [Australian National University]
 image: assets/images/speakers/jing.jpeg
-tags: [Zoom Webinar]
+tags: [Computer Vision]
 date: 2021-12-03
 display-date: 2023-03-01
 comments: True

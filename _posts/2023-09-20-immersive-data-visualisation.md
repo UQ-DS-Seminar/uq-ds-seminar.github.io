@@ -4,7 +4,7 @@ title:  "No.23-20 Immersive Data Visualisation and Interactive AI"
 author: yadan
 categories: [University of Queensland]
 image: assets/images/speakers/maxime.jpeg
-tags: [featured]
+tags: [Visualisation]
 date: 2022-12-11
 display-date: 2023-09-13
 comments: True

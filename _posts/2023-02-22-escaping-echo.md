@@ -4,7 +4,7 @@ title:  "No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recomm
 author: yadan
 categories: [University of Zurich]
 image: assets/images/speakers/avi-headshot.jpeg
-tags: [Semantic Web and Knowledge Discover]
+tags: [Information Systems]
 date: 2021-12-01
 display-date: 2023-02-22
 comments: True

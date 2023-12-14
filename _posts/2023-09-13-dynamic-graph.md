@@ -4,7 +4,7 @@ title:  "No.23-19 Graph Neural Networks for Large Dynamic Graphs"
 author: yadan
 categories: [DATA61-CSIRO]
 image: assets/images/speakers/yanping.jpg
-tags: [featured]
+tags: [Machine Learning]
 date: 2022-12-11
 display-date: 2023-09-13
 comments: True

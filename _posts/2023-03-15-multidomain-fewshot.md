@@ -4,7 +4,7 @@ title:  "No.23-04 Multi-Domain Few-Shot Image Classification "
 author: yadan
 categories: [Australian National University]
 image: assets/images/speakers/yanbin.jpg
-tags: [Zoom Webinar]
+tags: [Computer Vision]
 date: 2022-12-05
 display-date: 2023-03-15
 comments: True

@@ -4,7 +4,7 @@ title:  "No.23-0301 Efficient Distributed Complex Event Processing"
 author: yadan
 categories: [Humboldt-Universität zu Berlin (HU)]
 image: assets/images/speakers/matthias.jpeg
-tags: [Zoom Webinar]
+tags: [Information Systems]
 date: 2021-12-04
 display-date: 2023-03-09
 comments: True
