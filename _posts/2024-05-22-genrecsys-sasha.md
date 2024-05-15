@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No.24-05 Generative Sequential Recommendation"
+title: "No.24-06 Generative Sequential Recommendation"
 author: RQ
 categories: [University of Glasgow]
 image: assets/images/speakers/sasha.jpg
