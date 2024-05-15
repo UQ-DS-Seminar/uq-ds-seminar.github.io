@@ -22,7 +22,7 @@ Aleksandr Petrov is a last year PhD candidate at the University of Glasgow, spec
 
 ## More Details
 
-- When: Wed 22 Map 2024, at 3:00 pm (GMT+10)
+- When: Wed 22 May 2024, at 3:00 - 4:00 pm (GMT+10)
 - Speaker: Aleksandr Petrov (University of Glasgow)
 - Host: Dr Ruihong Qiu
 - Venue: Online only
