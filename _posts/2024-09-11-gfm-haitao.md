@@ -22,4 +22,4 @@ Haitao Mao is the final year PhD student in Michigan State University. His resea
 - Speaker: Haitao Mao (Michigan State University)
 - Host: Ruihong Qiu
 - Venue: Online
-- Zoom: [https://uqz.zoom.us/j/84584183045](https://uqz.zoom.us/j/84584183045)
+- Zoom: [https://uqz.zoom.us/j/84584183045](https://uqz.zoom.us/j/84584183045) [Recording](https://uqz.zoom.us/rec/share/yZDpSha1XfbpZT-Dvnz8oWFeCXEksBD5v6xbqZKwd3bYwLwpMgpfLU4CuInClBdi.xc4ulYTLmZdu11Bq)
