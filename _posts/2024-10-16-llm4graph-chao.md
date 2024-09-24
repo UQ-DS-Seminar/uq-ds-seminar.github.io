@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No.24-09 Graph Foundation Model in the Era of LLMs"
+title: "No.24-10 Graph Foundation Model in the Era of LLMs"
 author: RQ
 categories: [University of Hong Kong]
 image: assets/images/speakers/chao.jpg
