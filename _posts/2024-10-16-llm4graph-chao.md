@@ -22,4 +22,4 @@ Chao Huang is an Assistant Professor and PhD supervisor in the Department of Com
 - Speaker: Prof Chao Huang (University of Hong Kong)
 - Host: Dr Ruihong Qiu
 - Venue: Online
-- Zoom: [https://uqz.zoom.us/j/88003098168](https://uqz.zoom.us/j/88003098168)
+- Zoom: [https://uqz.zoom.us/j/88003098168](https://uqz.zoom.us/j/88003098168) [[Recording]](https://uqz.zoom.us/rec/share/jJuHTBZF-GBkGKIuhdsNBPnbdqe5aFbf1B1T7aSvQaYhBEhiSlZfNd2-A44iJyg.SmT6bUCl9unSWiUM)
