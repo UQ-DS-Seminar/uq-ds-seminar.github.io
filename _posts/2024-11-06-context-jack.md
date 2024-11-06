@@ -24,4 +24,4 @@ Jack (John) Morris is a PhD student at Cornell University and researcher at Meta
 - Speaker: Jack (John) Morris (Cornell University & Meta AI)
 - Host: Ruihong Qiu
 - Venue: Online
-- Zoom: [https://uqz.zoom.us/j/87626530209](https://uqz.zoom.us/j/87626530209) [[Recording]](https://uqz.zoom.us/j/87626530209)
+- Zoom: [https://uqz.zoom.us/j/87626530209](https://uqz.zoom.us/j/87626530209) [[Recording]](https://uqz.zoom.us/rec/share/uMPN-4c4Obv72-H6rQwFdnZ9oKHB5lg-QELYZEqnkbhcn9a_PhYIV9xYpUPV3HMV.B6aQsxV71RA56dmQ)
