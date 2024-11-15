@@ -26,4 +26,4 @@ Jiahao Zhang is currently a first-year PhD student at the Pennsylvania State Uni
 - Speaker: Jiahao Zhang (Pennsylvania State University)
 - Host: Ruihong Qiu
 - Venue: Online
-- Zoom: [https://uqz.zoom.us/j/87200611980](https://uqz.zoom.us/j/87200611980) [[Recording]](https://uqz.zoom.us/j/87200611980)
+- Zoom: [https://uqz.zoom.us/j/87200611980](https://uqz.zoom.us/j/87200611980) [[Recording]](https://uqz.zoom.us/rec/share/d423mAP-yvqZxlSGiOJPfZ2wZr36Qap-2FQt3arA_g5GtR2kcKEz2RMWbIvltEtg.WArIRU_xykjOnl4F)
