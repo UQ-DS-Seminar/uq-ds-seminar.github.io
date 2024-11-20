@@ -22,4 +22,4 @@ Wenting Zhao is a final-year Ph.D. candidate in Computer Science at Cornell Univ
 - Speaker: Wenting Zhao (Cornell University)
 - Host: Ruihong Qiu
 - Venue: Online
-- Zoom: [https://uqz.zoom.us/j/82860997780](https://uqz.zoom.us/j/82860997780) [[Recording]](https://uqz.zoom.us/j/82860997780)
+- Zoom: [https://uqz.zoom.us/j/82860997780](https://uqz.zoom.us/j/82860997780)
