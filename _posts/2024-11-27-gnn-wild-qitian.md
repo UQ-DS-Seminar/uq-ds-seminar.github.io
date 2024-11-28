@@ -22,4 +22,4 @@ Qitian Wu is a postdoctoral fellow at Broad Institute of MIT and Harvard. Prior 
 - Speaker: Dr Qitian Wu (MIT & Harvard)
 - Host: Dr Ruihong Qiu
 - Venue: Online
-- Zoom: [https://uqz.zoom.us/j/85331921600](https://uqz.zoom.us/j/85331921600) [[Recording]](https://uqz.zoom.us/j/85331921600)
+- Zoom: [https://uqz.zoom.us/j/85331921600](https://uqz.zoom.us/j/85331921600) [[Recording]](https://uqz.zoom.us/rec/share/2jDxfpbSK6rJvgEG5HydYE4oyfBdWnpXsIT3rAFFJbBEtVBJMtsVUM1Ii89-CoGb.PeMP1v8F2R7F2APT)
