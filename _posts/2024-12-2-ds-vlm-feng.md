@@ -22,4 +22,4 @@ Dr Feng Liu is a machine learning researcher with research interests in hypothes
 - Speaker: Dr Feng Liu (The University of Melbourne)
 - Host: Prof Helen Huang
 - Venue: 78-420
-- Zoom: [https://uqz.zoom.us/j/86204540916](https://uqz.zoom.us/j/86204540916) [[Recording]](https://uqz.zoom.us/j/86204540916)
+- Zoom: [https://uqz.zoom.us/j/86204540916](https://uqz.zoom.us/j/86204540916) [[Recording]](https://uqz.zoom.us/rec/share/joCtOrtBXnqv-HOuLXD8oQjoH4Lam-efcqJ2VQ7kbeEtoCJEL7w848x2MvD8_u5k.3Y4DL9AAumKnQWSQ)
