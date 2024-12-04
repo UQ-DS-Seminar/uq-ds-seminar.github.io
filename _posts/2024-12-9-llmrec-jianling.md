@@ -2,7 +2,7 @@
 layout: post
 title: "No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences"
 author: RQ
-categories: [Deeping]
+categories: [Deepmind]
 image: assets/images/speakers/jianling.jpg
 tags: [NLP]
 date: 2024-12-02
