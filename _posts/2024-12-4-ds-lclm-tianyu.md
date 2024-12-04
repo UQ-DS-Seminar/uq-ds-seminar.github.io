@@ -21,4 +21,4 @@ Tianyu Gao is a 5th-year PhD student at Princeton University advised by Prof. Da
 - When: Wed 4 Dec 2024, at 1 - 2 pm (Brisbane time)
 - Speaker: Tianyu Gao (Princeton University)
 - Host: Ruihong Qiu
-- Zoom: [https://uqz.zoom.us/j/84022245453](https://uqz.zoom.us/j/84022245453) [[Recording]](https://uqz.zoom.us/j/84022245453)
+- Zoom: [https://uqz.zoom.us/j/84022245453](https://uqz.zoom.us/j/84022245453) [[Recording]](https://uqz.zoom.us/rec/share/nEgsR99NA_BaBAeL6xtWojxnImqthEXryCrkuDy9L-7IRTv7RiLUb3NuyHHkb8fT.xcAIvXVgFkYVLWOs)
