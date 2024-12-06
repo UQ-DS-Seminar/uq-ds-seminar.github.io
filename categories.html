@@ -4,19 +4,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>UQ Data Science Seminar Series | UQ-DS-Seminar</title>
+    <title>Categories | UQ-DS-Seminar</title>
 
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>UQ Data Science Seminar Series | UQ-DS-Seminar</title>
+<title>Categories | UQ-DS-Seminar</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="UQ Data Science Seminar Series" />
+<meta property="og:title" content="Categories" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="UQ Data Science Seminar Series." />
-<meta property="og:description" content="UQ Data Science Seminar Series." />
+<meta name="description" content="Official Site for Data Science Seminar Series, The University of Queensland." />
+<meta property="og:description" content="Official Site for Data Science Seminar Series, The University of Queensland." />
 <meta property="og:site_name" content="UQ-DS-Seminar" />
-<link rel="next" href="/page2" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/logo.png"}},"@type":"WebSite","headline":"UQ Data Science Seminar Series","name":"UQ-DS-Seminar","url":"/","description":"UQ Data Science Seminar Series.","@context":"http://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/logo.png"}},"@type":"WebPage","headline":"Categories","url":"/categories.html","description":"Official Site for Data Science Seminar Series, The University of Queensland.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -45,7 +44,7 @@
 
 </head>
 
-<body class=" homefirstpage ">
+<body class="">
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
@@ -135,12 +134,12 @@ var documents = [{
     "id": 9,
     "url": "/contact.html",
     "title": "Contact",
-    "body": "  Please send your message to UQ-DS-Seminar. We will reply as soon as possible!   "
+    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
     }, {
     "id": 10,
     "url": "/",
     "title": "UQ Data Science Seminar Series",
-    "body": "                                No. 24-20 Controllable Visual Synthesis via Structural Representation  :       End-to-end neural approaches have revolutionized visual generation, producing stunning outputs from natural language prompts. However. . .               From                 Stanford,                                        Dec 13, 2024                                                                                                                             No. 24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences          :                       From                         Deepmind,                                                                  Dec 09, 2024                                                                                                                                     No. 24-18 Developing Effective Long-Context Language Models          :                       From                         Princeton,                                                                  Dec 04, 2024                                                                                                                                    No. 24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models          :                       From                         UniMelb,                                                                  Dec 02, 2024                                                                      All Talks:                   		No. 24-20 Controllable Visual Synthesis via Structural Representation	: 		  End-to-end neural approaches have revolutionized visual generation, producing stunning outputs from natural language prompts. However, precise controls remain challenging through dire. . . 	 			From 				Stanford, 								Dec 13, 2024						                  		No. 24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences	: 		  While LLMs offer powerful reasoning and generalization capabilities for user understanding and long-term planning in recommendation systems, their latency and cost hinder direct appli. . . 	 			From 				Deepmind, 								Dec 09, 2024						                  		No. 24-18 Developing Effective Long-Context Language Models	: 		  In this talk, I will share our journey behind developing an effective long-context language model. I’ll begin by introducing our initial approach of using parallel context encoding (C. . . 	 			From 				Princeton, 								Dec 04, 2024						                  		No. 24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models	: 		  Benefiting from large-scale image-text pair datasets, powerful pre-trained vision-language models (VLMs, such as CLIP) enable many real-world applications, e. g. , zero-shot classificat. . . 	 			From 				UniMelb, 								Dec 02, 2024						                  		No. 24-16 Towards Graph Machine Learning in the Wild	: 		  Learning on graphs is a long-standing and fundamental challenge in machine learning and recent works have demonstrated solid progress in this area. However, most existing models tacit. . . 	 			From 				MIT, 								Nov 27, 2024						                  		No. 24-15 Evaluation and Reasoning in Real-world Scenarios	: 		  User queries in natural settings, such as “provide a design for a disk topology for a NAS built on TrueNAS Scale, as well as a dataset layout,” differ significantly from those produce. . . 	 			From 				Cornell University, 								Nov 20, 2024						                  		No. 24-14 Long-Range Meets Scalability: Unveiling a Linear-Time Graph Neural Network for Recommendation at Scale	: 		  Recommender systems play a central role in shaping our daily digital experiences, yet achieving both scalability and expressive power remains a significant challenge. While Graph Neur. . . 	 			From 				Pennsylvania State University, 								Nov 13, 2024						                  		No. 24-13 Contextual Document Embeddings	: 		  Dense document embeddings are central to neural retrieval. The dominant paradigm is to train and construct embeddings by running encoders directly on individual documents. In this wor. . . 	 			From 				Cornell University, 								Nov 06, 2024						                  		No. 24-12 Graph Neural Networks in Epidemic Modeling: An In-Depth Review and Toolkit	: 		  Since the onset of the COVID-19 pandemic, there has been growing interest in epidemic modeling. While traditional mechanistic models effectively describe the mathematical dynamics of . . . 	 			From 				Emory University, 								Oct 30, 2024						                  		No. 24-10 Recreating the Physical Natural World from Images	: 		  Today, generative AI models excel at creating visual worlds through pixels, but still often struggle with the comprehension of basic physical concepts such as 3D shape, motion, materi. . . 	 			From 				Stanford University, 								Oct 09, 2024						                                                &laquo;                              1                               2                               3                               4                              Next &raquo;                                          Upcoming:    				              "
+    "body": "  {% if page. url ==  /  %}          {% assign latest_post = site. posts[0] %}          &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;           {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               From         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                                {{ latest_post. display-date | date: '%b %d, %Y' }}                            {%- assign second_post = site. posts[1] -%}                        {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %}{{ second_post. image | absolute_url }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                                    {{ second_post. title }}          :                       From             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                                      {{ second_post. display-date | date: '%b %d, %Y' }}                                    {%- assign third_post = site. posts[2] -%}                        {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                                    {{ third_post. title }}          :                       From             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                                      {{ third_post. display-date | date: '%b %d, %Y' }}                                    {%- assign fourth_post = site. posts[3] -%}                        {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                                    {{ fourth_post. title }}          :                       From             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                                      {{ fourth_post. display-date | date: '%b %d, %Y' }}                                {% for post in site. posts %} {% if post. tags contains  sticky  %}                    {{post. title}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Read More            	             {% endif %}{% endfor %}  {% endif %}                All Talks:         {% for post in paginator. posts %}          {% include main-loop-card. html %}        {% endfor %}                   {% if paginator. total_pages &gt; 1 %}              {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}                     {% include sidebar-featured. html %}      "
     }, {
     "id": 11,
     "url": "/privacy-policy.html",
@@ -439,498 +438,1216 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         <div class="container">
-    
-
-    
-    
-    
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
-
-    <!-- latest post -->
-    
-    <div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">   
-    <a href="/synt-yunzhi/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/speakers/yunzhi.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/synt-yunzhi/">No.24-20 Controllable Visual Synthesis via Structural Representation</a>
-    </h2>
-    <p class="excerpt">
-        End-to-end neural approaches have revolutionized visual generation, producing stunning outputs from natural language prompts. However...
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            From <span class="catlist">
-                
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#stanford">Stanford</a><span class="sep">, </span>
-                
-                </span>                   
-        </small>
-        <small class="text-muted">
-            Dec 13, 2024
-        </small>
-    </div>
-    </div>
-    </div>
-    </div>
-    
-    <div class="col-md-6">
-        
-        <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/llmrec-jianling/">
-                 <img class="w-100" src="/assets/images/speakers/jianling.jpg" alt="No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/llmrec-jianling/">No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        From <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#deepmind">Deepmind</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Dec 09, 2024
-                    </small>
-                </div>
-            </div>
-        
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/ds-lclm-tianyu/">
-                 <img class="w-100" src="/assets/images/speakers/tianyu.JPEG" alt="No.24-18 Developing Effective Long-Context Language Models">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/ds-lclm-tianyu/">No.24-18 Developing Effective Long-Context Language Models</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        From <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#princeton">Princeton</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Dec 04, 2024
-                    </small>
-                </div>
-            </div>
-        
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/ds-vlm-feng/">
-                <img class="w-100" src="/assets/images/speakers/feng_liu.png" alt="No.24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/ds-vlm-feng/">No.24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        From <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#unimelb">UniMelb</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Dec 02, 2024
-                    </small>
-                </div>
-            </div>
-        
-    </div>
-    
-</div>
-
-
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-
-    
-
-
- <!--endif page url is / -->
-    
-
-
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-    
-<div class="row mt-3">
-   
-    <div class="col-md-8 main-loop">
-        
-        <h4 class="font-weight-bold spanborder"><span>All Talks</span></h4>
-        
-
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
+            
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of technology sydney"><span>University of Technology Sydney</span></h4>
+            
         
         
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/synt-yunzhi/">No.24-20 Controllable Visual Synthesis via Structural Representation</a>
+	<a class="text-dark" href="/generalized-ood/">No.23-16 Generalized Out-of-distribution Detection: Theory and Algorithm</a>
 	</h2>
 	<p class="excerpt">
-	   End-to-end neural approaches have revolutionized visual generation, producing stunning outputs from natural language prompts. However, precise controls remain challenging through dire...
+	   Out-of-distribution (OOD) detection is vital for ensuring the safety and reliability of artificial intelligence systems. It represents a novel and trending area in machine learning an...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#stanford">Stanford</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of technology sydney">University of Technology Sydney</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Dec 13, 2024
+		Aug 23, 2023
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/synt-yunzhi/">
-	<img class="w-100" src="/assets/images/speakers/yunzhi.jpg" alt="No.24-20 Controllable Visual Synthesis via Structural Representation">
+	<a href="/generalized-ood/">
+	<img class="w-100" src="/assets/images/speakers/Zhen_Fang.jpeg" alt="No.23-16 Generalized Out-of-distribution Detection: Theory and Algorithm">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/llmrec-jianling/">No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences</a>
+	<a class="text-dark" href="/session-recommendation/">No.23-12 An Introduction to Sequential/Session-based Recommendation </a>
 	</h2>
 	<p class="excerpt">
-	   While LLMs offer powerful reasoning and generalization capabilities for user understanding and long-term planning in recommendation systems, their latency and cost hinder direct appli...
+	   In recent years, sequential/session-based recommendations have emerged as a new recommendation paradigm to well model users’ dynamic and short-term preferences for more accurate and t...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#deepmind">Deepmind</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of technology sydney">University of Technology Sydney</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Dec 09, 2024
+		May 17, 2023
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/llmrec-jianling/">
-	<img class="w-100" src="/assets/images/speakers/jianling.jpg" alt="No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences">
+	<a href="/session-recommendation/">
+	<img class="w-100" src="/assets/images/speakers/shoujin.jpg" alt="No.23-12 An Introduction to Sequential/Session-based Recommendation ">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/ds-lclm-tianyu/">No.24-18 Developing Effective Long-Context Language Models</a>
+	<a class="text-dark" href="/advanced-machine-perception/">Advancing Machine Perception for Artificial Intelligence Systems</a>
 	</h2>
 	<p class="excerpt">
-	   In this talk, I will share our journey behind developing an effective long-context language model. I’ll begin by introducing our initial approach of using parallel context encoding (C...
+	   Artificial intelligence (AI) techniques have impacted on our lives profoundly, such as providing more secured and resilient social environments and assisting more accurate medical dia...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#princeton">Princeton</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of technology sydney">University of Technology Sydney</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Dec 04, 2024
+		Oct 05, 2022
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/ds-lclm-tianyu/">
-	<img class="w-100" src="/assets/images/speakers/tianyu.JPEG" alt="No.24-18 Developing Effective Long-Context Language Models">
+	<a href="/advanced-machine-perception/">
+	<img class="w-100" src="/assets/images/speakers/yuxin.jpeg" alt="Advancing Machine Perception for Artificial Intelligence Systems">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="texas a&m university"><span>Texas A&M University</span></h4>
+            
+        
+        
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/ds-vlm-feng/">No.24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models</a>
+	<a class="text-dark" href="/libAUC/">LibAUC: A deep learning library for X-risk Optimization</a>
 	</h2>
 	<p class="excerpt">
-	   Benefiting from large-scale image-text pair datasets, powerful pre-trained vision-language models (VLMs, such as CLIP) enable many real-world applications, e.g., zero-shot classificat...
+	   In this talk, I will present our recent research efforts of developing a deep learning library called LibAUC, which is applicable for solving a variety of compositional measures.  I w...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#unimelb">UniMelb</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#texas a&m university">Texas A&M University</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Dec 02, 2024
+		Oct 26, 2022
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/ds-vlm-feng/">
-	<img class="w-100" src="/assets/images/speakers/feng_liu.png" alt="No.24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models">
+	<a href="/libAUC/">
+	<img class="w-100" src="/assets/images/speakers/tianbao.jpg" alt="LibAUC: A deep learning library for X-risk Optimization">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="rmit university"><span>RMIT University</span></h4>
+            
+        
+        
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/gnn-wild-qitian/">No.24-16 Towards Graph Machine Learning in the Wild</a>
+	<a class="text-dark" href="/QA-taxonomy/">A Non-Factoid Question-Answering Taxonomy</a>
 	</h2>
 	<p class="excerpt">
-	   Learning on graphs is a long-standing and fundamental challenge in machine learning and recent works have demonstrated solid progress in this area. However, most existing models tacit...
+	   Non-factoid question answering (NFQA) is a challenging and under-researched task that requires constructing long-form answers, such as explanations or opinions, to open-ended non-fact...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mit">MIT</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#rmit university">RMIT University</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Nov 27, 2024
+		Nov 09, 2022
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/gnn-wild-qitian/">
-	<img class="w-100" src="/assets/images/speakers/qitian.png" alt="No.24-16 Towards Graph Machine Learning in the Wild">
+	<a href="/QA-taxonomy/">
+	<img class="w-100" src="/assets/images/speakers/valeriia.jpeg" alt="A Non-Factoid Question-Answering Taxonomy">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of zurich"><span>University of Zurich</span></h4>
+            
+        
+        
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/eval-wenting/">No.24-15 Evaluation and Reasoning in Real-world Scenarios</a>
+	<a class="text-dark" href="/escaping-echo/">No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems</a>
 	</h2>
 	<p class="excerpt">
-	   User queries in natural settings, such as “provide a design for a disk topology for a NAS built on TrueNAS Scale, as well as a dataset layout,” differ significantly from those produce...
+	   Recommender systems and social networks are often faulted to be the cause for creating Echo Chambers – environments where people mostly encounter news that match their previous choice...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#cornell university">Cornell University</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of zurich">University of Zurich</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Nov 20, 2024
+		Feb 22, 2023
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/eval-wenting/">
-	<img class="w-100" src="/assets/images/speakers/wenting.png" alt="No.24-15 Evaluation and Reasoning in Real-world Scenarios">
+	<a href="/escaping-echo/">
+	<img class="w-100" src="/assets/images/speakers/avi-headshot.jpeg" alt="No.23-01 Escaping the Echo Chamber: The Quest for Normative News Recommender Systems">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of sydney"><span>University of Sydney</span></h4>
+            
+        
+        
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/longrangerecsys-jiahao/">No.24-14 Long-Range Meets Scalability: Unveiling a Linear-Time Graph Neural Network for Recommendation at Scale</a>
+	<a class="text-dark" href="/testing-uniformity/">No.23-02 Seven Algorithms for the Same Task (Testing Uniformity)</a>
 	</h2>
 	<p class="excerpt">
-	   Recommender systems play a central role in shaping our daily digital experiences, yet achieving both scalability and expressive power remains a significant challenge. While Graph Neur...
+	   Suppose you get a set of (independent) data points in some discrete but huge domain {1,2,…,k}, and want to determine if this data is uniformly distributed. This is a basic and fundame...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#pennsylvania state university">Pennsylvania State University</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of sydney">University of Sydney</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Nov 13, 2024
+		Mar 08, 2023
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/longrangerecsys-jiahao/">
-	<img class="w-100" src="/assets/images/speakers/zjh.jpg" alt="No.24-14 Long-Range Meets Scalability: Unveiling a Linear-Time Graph Neural Network for Recommendation at Scale">
+	<a href="/testing-uniformity/">
+	<img class="w-100" src="/assets/images/speakers/clement.jpeg" alt="No.23-02 Seven Algorithms for the Same Task (Testing Uniformity)">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="australian national university"><span>Australian National University</span></h4>
+            
+        
+        
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/context-jack/">No.24-13 Contextual Document Embeddings</a>
+	<a class="text-dark" href="/multidomain-fewshot/">No.23-04 Multi-Domain Few-Shot Image Classification </a>
 	</h2>
 	<p class="excerpt">
-	   Dense document embeddings are central to neural retrieval. The dominant paradigm is to train and construct embeddings by running encoders directly on individual documents. In this wor...
+	   Most existing few-shot classification methods only consider generalization on one dataset (i.e., single-domain), failing to transfer across various seen and unseen domains. In this ta...
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#cornell university">Cornell University</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#australian national university">Australian National University</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Nov 06, 2024
+		Mar 15, 2023
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/context-jack/">
-	<img class="w-100" src="/assets/images/speakers/jack.png" alt="No.24-13 Contextual Document Embeddings">
+	<a href="/multidomain-fewshot/">
+	<img class="w-100" src="/assets/images/speakers/yanbin.jpg" alt="No.23-04 Multi-Domain Few-Shot Image Classification ">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/epi-wei/">No.24-12 Graph Neural Networks in Epidemic Modeling: An In-Depth Review and Toolkit</a>
+	<a class="text-dark" href="/score-based-diffusiony/">No.23-03 Score based Diffusion Models and Their Applications </a>
 	</h2>
 	<p class="excerpt">
-	   Since the onset of the COVID-19 pandemic, there has been growing interest in epidemic modeling. While traditional mechanistic models effectively describe the mathematical dynamics of ...
+	   Generative models show great potential in generating new samples, which have been extensively investigated in 2D/3D vision tasks. Among them, the adversarial training based models, e....
 	</p>
 	<small class="d-block text-muted">
 		From <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#emory university">Emory University</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#australian national university">Australian National University</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Oct 30, 2024
+		Mar 01, 2023
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/epi-wei/">
-	<img class="w-100" src="/assets/images/speakers/wei.jpg" alt="No.24-12 Graph Neural Networks in Epidemic Modeling: An In-Depth Review and Toolkit">
+	<a href="/score-based-diffusiony/">
+	<img class="w-100" src="/assets/images/speakers/jing.jpeg" alt="No.23-03 Score based Diffusion Models and Their Applications ">
 	</a>
 	</div>
 
 </div>
+          
         
         
         
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="humboldt-universität zu berlin (hu)"><span>Humboldt-Universität zu Berlin (HU)</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/efficient-event-processing/">No.23-0301 Efficient Distributed Complex Event Processing</a>
+	</h2>
+	<p class="excerpt">
+	   Complex event processing emerged as a computational paradigm to detect patterns in event streams based on the continuous evaluation of event queries. Once such queries are evaluated i...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#humboldt-universität zu berlin (hu)">Humboldt-Universität zu Berlin (HU)</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Mar 09, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/efficient-event-processing/">
+	<img class="w-100" src="/assets/images/speakers/matthias.jpeg" alt="No.23-0301 Efficient Distributed Complex Event Processing">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="delft university of technology"><span>Delft University of Technology</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/human-quotient-ai-systems/">No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems</a>
+	</h2>
+	<p class="excerpt">
+	   The unprecedented rise in the adoption of artificial intelligence techniques and automation in many contexts is concomitant with the shortcomings of such technology concerning robustn...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#delft university of technology">Delft University of Technology</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Mar 22, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/human-quotient-ai-systems/">
+	<img class="w-100" src="/assets/images/speakers/UG5.png" alt="No.23-05 A magic ingredient, a secret spice, a special blend, for it can all be nice!' The Human Quotient for Better AI Systems">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="purdue university"><span>Purdue University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/mobility-digital-twin/">No.23-09 Mobility Digital Twin for Connected and Automated Vehicles</a>
+	</h2>
+	<p class="excerpt">
+	   A Digital Twin is a digital replica of a living or nonliving physical entity, and this emerging technology attracted extensive attention from different industries during the past deca...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#purdue university">Purdue University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Apr 26, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/mobility-digital-twin/">
+	<img class="w-100" src="/assets/images/speakers/Ziran_Headshot.jpg" alt="No.23-09 Mobility Digital Twin for Connected and Automated Vehicles">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="georgetown university"><span>Georgetown University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/SEINE-retrieval/">No.23-10 SEINE: SEgment-based Indexing for NEural Information Retrieval</a>
+	</h2>
+	<p class="excerpt">
+	   Many early neural Information Retrieval (NeurIR) methods are re-rankers that rely on a traditional first-stage retriever due to expensive query time computations. Recently, representa...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#georgetown university">Georgetown University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 03, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/SEINE-retrieval/">
+	<img class="w-100" src="/assets/images/speakers/grace.jpg" alt="No.23-10 SEINE: SEgment-based Indexing for NEural Information Retrieval">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="weights & biases"><span>Weights & Biases</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/weights-biases/">No.23-11 Building Experiment Tracking at Scale with Weights & Biases</a>
+	</h2>
+	<p class="excerpt">
+	   Building experiments doesn’t just end once the model is deployed. Teams need to monitor their models in production and use their findings to iterate further. Especially when dealing w...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#weights & biases">Weights & Biases</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 10, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/weights-biases/">
+	<img class="w-100" src="/assets/images/speakers/Andrea.png" alt="No.23-11 Building Experiment Tracking at Scale with Weights & Biases">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of washington"><span>University of Washington</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/task-aware-retrieval/">No.23-13 Task-aware Retrieval with Instructions </a>
+	</h2>
+	<p class="excerpt">
+	   We study the problem of retrieval with instructions, where users of a retrieval system explicitly describe their intent along with their queries. We aim to develop a general-purpose t...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of washington">University of Washington</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 02, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/task-aware-retrieval/">
+	<img class="w-100" src="/assets/images/speakers/akari.jpg" alt="No.23-13 Task-aware Retrieval with Instructions ">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of wisconsin-madison"><span>University of Wisconsin-Madison</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/how-to-detect-ood/">No.23-15 How to Detect Out-of-Distribution Data in the Wild? Challenges, Research Progress and Path Forward</a>
+	</h2>
+	<p class="excerpt">
+	   When deploying machine learning models in the open and non-stationary world, their reliability is often challenged by the presence of out-of-distribution (OOD) samples. Since data shi...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of wisconsin-madison">University of Wisconsin-Madison</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 16, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/how-to-detect-ood/">
+	<img class="w-100" src="/assets/images/speakers/yixuanli-2019.jpg" alt="No.23-15 How to Detect Out-of-Distribution Data in the Wild? Challenges, Research Progress and Path Forward">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="data61-csiro"><span>DATA61-CSIRO</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/dynamic-graph/">No.23-19 Graph Neural Networks for Large Dynamic Graphs</a>
+	</h2>
+	<p class="excerpt">
+	   In real-world applications such as social networks, financial transactions, and recommender systems, graph-structured data is frequently dynamic, with the nodes and edges of the graph...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#data61-csiro">DATA61-CSIRO</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 13, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/dynamic-graph/">
+	<img class="w-100" src="/assets/images/speakers/yanping.jpg" alt="No.23-19 Graph Neural Networks for Large Dynamic Graphs">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of queensland"><span>University of Queensland</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/process-mining/">No.23-22 Process Mining: Opportunities and Challenges</a>
+	</h2>
+	<p class="excerpt">
+	   In recent years, significant advances in extended reality (XR) and AI have offered novel, promising ways to visualise and eventually better understand large and complex data. Immersio...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of queensland">University of Queensland</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 13, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/process-mining/">
+	<img class="w-100" src="/assets/images/speakers/moe.jpg" alt="No.23-22 Process Mining: Opportunities and Challenges">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/immersive-data-visualisation/">No.23-20 Immersive Data Visualisation and Interactive AI</a>
+	</h2>
+	<p class="excerpt">
+	   In recent years, significant advances in extended reality (XR) and AI have offered novel, promising ways to visualise and eventually better understand large and complex data. Immersio...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of queensland">University of Queensland</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 13, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/immersive-data-visualisation/">
+	<img class="w-100" src="/assets/images/speakers/maxime.jpeg" alt="No.23-20 Immersive Data Visualisation and Interactive AI">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="introduction"><span>Introduction</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/welcome-to-uqds/">Welcome to UQ Data Science Seminar Series!</a>
+	</h2>
+	<p class="excerpt">
+	   This UQ Data Science seminar series aims to bring together students and senior researchers to discuss about their research, intending to have a diverse set of talks and speakers on to...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#introduction">Introduction</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2023
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/welcome-to-uqds/">
+	<img class="w-100" src="/assets/images/uq_data_science.jpg" alt="Welcome to UQ Data Science Seminar Series!">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="tsinghua university"><span>Tsinghua University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/chen-gao/">No.24-01 Filter Bubble in Recommender System: Diversity and Beyond</a>
+	</h2>
+	<p class="excerpt">
+	   Recommender system has reshaped how we access information in today’s world, make relevant content more accessible to everyone. However, it has also resulted in some negative side-effe...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tsinghua university">Tsinghua University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Mar 07, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/chen-gao/">
+	<img class="w-100" src="/assets/images/speakers/chen-gao.jpg" alt="No.24-01 Filter Bubble in Recommender System: Diversity and Beyond">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="amazon"><span>Amazon</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/amazon-garcia/">No.24-02 Building AI/ML & Gen AI responsibly on AWS</a>
+	</h2>
+	<p class="excerpt">
+	   This presentation explores best practices for building AI/ML and generative AI (Gen AI) models responsibly on AWS. We’ll explore real use cases where these technologies are driving va...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#amazon">Amazon</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Mar 13, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/amazon-garcia/">
+	<img class="w-100" src="/assets/images/speakers/Nieves.jpg" alt="No.24-02 Building AI/ML & Gen AI responsibly on AWS">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="monash university"><span>Monash University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/openworld-jianfei/">No.24-03 Towards Open-World Object Segmentation and Detection</a>
+	</h2>
+	<p class="excerpt">
+	   Segmentation and detection are two fundamental and classical tasks in computer vision. In recent years, significant attention has been devoted to the open-vocabulary object segmentati...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#monash university">Monash University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Apr 10, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/openworld-jianfei/">
+	<img class="w-100" src="/assets/images/speakers/jianfei.jpg" alt="No.24-03 Towards Open-World Object Segmentation and Detection">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of newcastle"><span>University of Newcastle</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/survival-weijia/">No.24-04 Deep Copula-Based Survival Analysis for Dependent Censoring</a>
+	</h2>
+	<p class="excerpt">
+	   Censoring is the central problem in survival analysis where either the time-to-event (for instance, death) or the time-to-censoring (such as loss of follow-up) is observed for each sa...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of newcastle">University of Newcastle</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Apr 24, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/survival-weijia/">
+	<img class="w-100" src="/assets/images/speakers/weijia.jpg" alt="No.24-04 Deep Copula-Based Survival Analysis for Dependent Censoring">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of glasgow"><span>University of Glasgow</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/genrecsys-sasha/">No.24-06 Generative Sequential Recommendation</a>
+	</h2>
+	<p class="excerpt">
+	   In this talk, we first introduce the Sequential Recommendation problem and draw parallels between language modelling and recommender systems. To set the stage, we also briefly cover s...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of glasgow">University of Glasgow</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 22, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/genrecsys-sasha/">
+	<img class="w-100" src="/assets/images/speakers/sasha.jpg" alt="No.24-06 Generative Sequential Recommendation">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="google research india"><span>Google Research India</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/LMs-jain/">No.24-05 Efficient and Elastic Large Models</a>
+	</h2>
+	<p class="excerpt">
+	   Generative LLMs are transforming multiple industries and have proven to be robust for multitude of use cases across industries and settings. One of the key impediments to their widesp...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#google research india">Google Research India</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 17, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/LMs-jain/">
+	<img class="w-100" src="/assets/images/speakers/jain.jpg" alt="No.24-05 Efficient and Elastic Large Models">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="the university of new south wales"><span>The University of New South Wales</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/CL-dong/">No.24-07 Embracing Changes in Deep Learning: Continual Learning with Augmented and Modularized Memory</a>
+	</h2>
+	<p class="excerpt">
+	   Deep learning (DL) has been successful in many applications. However, the conventional DL approaches focus on the end results on fixed datasets/scenarios and fail to handle the dynami...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#the university of new south wales">The University of New South Wales</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jun 11, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/CL-dong/">
+	<img class="w-100" src="/assets/images/speakers/dong.jpg" alt="No.24-07 Embracing Changes in Deep Learning: Continual Learning with Augmented and Modularized Memory">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="michigan state university"><span>Michigan State University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/gfm-haitao/">No.24-08 Towards Graph Foundation Model</a>
+	</h2>
+	<p class="excerpt">
+	   Graph Foundation Models (GFMs) is a single (neural) model that learns transferable graph representations that can generalize to any new, previously unseen graph. In this talk, we will...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#michigan state university">Michigan State University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 11, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/gfm-haitao/">
+	<img class="w-100" src="/assets/images/speakers/haitao.jpg" alt="No.24-08 Towards Graph Foundation Model">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of hong kong"><span>University of Hong Kong</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/llm4graph-chao/">No.24-11 Graph Foundation Model in the Era of LLMs</a>
+	</h2>
+	<p class="excerpt">
+	   Graph data structures play a crucial role in real life, effectively illustrating the complex relationships and structural dependencies between entities. In recent years, the generaliz...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of hong kong">University of Hong Kong</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Oct 16, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/llm4graph-chao/">
+	<img class="w-100" src="/assets/images/speakers/chao.jpg" alt="No.24-11 Graph Foundation Model in the Era of LLMs">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="university of adelaide"><span>University of Adelaide</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/vlnllm-qi/">No.24-09 Human-Computer Conversational Vision-and-Language Navigation</a>
+	</h2>
+	<p class="excerpt">
+	   The dynamic realm of Vision-and-Language Navigation (VLN) has garnered significant multidisciplinary interest, resonating within the domains of computer vision, natural language proce...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#university of adelaide">University of Adelaide</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Oct 08, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/vlnllm-qi/">
+	<img class="w-100" src="/assets/images/speakers/qi.jpeg" alt="No.24-09 Human-Computer Conversational Vision-and-Language Navigation">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="stanford university"><span>Stanford University</span></h4>
+            
+        
+        
+        
+          
+         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -958,45 +1675,378 @@ function lunr_search(term) {
 	</div>
 
 </div>
+          
         
         
         
-        <div class="mt-5">
-         <!-- Pagination links -->
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="emory university"><span>Emory University</span></h4>
             
-            <ul class="pagination"> 
-              
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/epi-wei/">No.24-12 Graph Neural Networks in Epidemic Modeling: An In-Depth Review and Toolkit</a>
+	</h2>
+	<p class="excerpt">
+	   Since the onset of the COVID-19 pandemic, there has been growing interest in epidemic modeling. While traditional mechanistic models effectively describe the mathematical dynamics of ...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#emory university">Emory University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Oct 30, 2024
+	</small>
+</div>
 
-              
-                
-                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/page4">4</a></li>
-                
-              
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/epi-wei/">
+	<img class="w-100" src="/assets/images/speakers/wei.jpg" alt="No.24-12 Graph Neural Networks in Epidemic Modeling: An In-Depth Review and Toolkit">
+	</a>
+	</div>
 
-              
-                <li class="page-item"><a class="page-link" href="/page2">Next &raquo;</a></li>
-              
-            </ul>
-                  
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="cornell university"><span>Cornell University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/eval-wenting/">No.24-15 Evaluation and Reasoning in Real-world Scenarios</a>
+	</h2>
+	<p class="excerpt">
+	   User queries in natural settings, such as “provide a design for a disk topology for a NAS built on TrueNAS Scale, as well as a dataset layout,” differ significantly from those produce...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#cornell university">Cornell University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 20, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/eval-wenting/">
+	<img class="w-100" src="/assets/images/speakers/wenting.png" alt="No.24-15 Evaluation and Reasoning in Real-world Scenarios">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/context-jack/">No.24-13 Contextual Document Embeddings</a>
+	</h2>
+	<p class="excerpt">
+	   Dense document embeddings are central to neural retrieval. The dominant paradigm is to train and construct embeddings by running encoders directly on individual documents. In this wor...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#cornell university">Cornell University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 06, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/context-jack/">
+	<img class="w-100" src="/assets/images/speakers/jack.png" alt="No.24-13 Contextual Document Embeddings">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="pennsylvania state university"><span>Pennsylvania State University</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/longrangerecsys-jiahao/">No.24-14 Long-Range Meets Scalability: Unveiling a Linear-Time Graph Neural Network for Recommendation at Scale</a>
+	</h2>
+	<p class="excerpt">
+	   Recommender systems play a central role in shaping our daily digital experiences, yet achieving both scalability and expressive power remains a significant challenge. While Graph Neur...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#pennsylvania state university">Pennsylvania State University</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 13, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/longrangerecsys-jiahao/">
+	<img class="w-100" src="/assets/images/speakers/zjh.jpg" alt="No.24-14 Long-Range Meets Scalability: Unveiling a Linear-Time Graph Neural Network for Recommendation at Scale">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="mit"><span>MIT</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/gnn-wild-qitian/">No.24-16 Towards Graph Machine Learning in the Wild</a>
+	</h2>
+	<p class="excerpt">
+	   Learning on graphs is a long-standing and fundamental challenge in machine learning and recent works have demonstrated solid progress in this area. However, most existing models tacit...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mit">MIT</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 27, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/gnn-wild-qitian/">
+	<img class="w-100" src="/assets/images/speakers/qitian.png" alt="No.24-16 Towards Graph Machine Learning in the Wild">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="unimelb"><span>UniMelb</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/ds-vlm-feng/">No.24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models</a>
+	</h2>
+	<p class="excerpt">
+	   Benefiting from large-scale image-text pair datasets, powerful pre-trained vision-language models (VLMs, such as CLIP) enable many real-world applications, e.g., zero-shot classificat...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#unimelb">UniMelb</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 02, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/ds-vlm-feng/">
+	<img class="w-100" src="/assets/images/speakers/feng_liu.png" alt="No.24-17 Mitigating Distribution Shifts in Using Pre-trained Vision-Language Models">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="princeton"><span>Princeton</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/ds-lclm-tianyu/">No.24-18 Developing Effective Long-Context Language Models</a>
+	</h2>
+	<p class="excerpt">
+	   In this talk, I will share our journey behind developing an effective long-context language model. I’ll begin by introducing our initial approach of using parallel context encoding (C...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#princeton">Princeton</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 04, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/ds-lclm-tianyu/">
+	<img class="w-100" src="/assets/images/speakers/tianyu.JPEG" alt="No.24-18 Developing Effective Long-Context Language Models">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="deepmind"><span>Deepmind</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/llmrec-jianling/">No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences</a>
+	</h2>
+	<p class="excerpt">
+	   While LLMs offer powerful reasoning and generalization capabilities for user understanding and long-term planning in recommendation systems, their latency and cost hinder direct appli...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#deepmind">Deepmind</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 09, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/llmrec-jianling/">
+	<img class="w-100" src="/assets/images/speakers/jianling.jpg" alt="No.24-19 When LLMs Meet Recommendations: Scalable Hybrid Approaches to Enhance User Experiences">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="stanford"><span>Stanford</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/synt-yunzhi/">No.24-20 Controllable Visual Synthesis via Structural Representation</a>
+	</h2>
+	<p class="excerpt">
+	   End-to-end neural approaches have revolutionized visual generation, producing stunning outputs from natural language prompts. However, precise controls remain challenging through dire...
+	</p>
+	<small class="d-block text-muted">
+		From <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#stanford">Stanford</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 13, 2024
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/synt-yunzhi/">
+	<img class="w-100" src="/assets/images/speakers/yunzhi.jpg" alt="No.24-20 Controllable Visual Synthesis via Structural Representation">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+        
+
         </div>
         
-    </div>
-    
-    <div class="col-md-4">
+            <div class="col-md-4">
         <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Upcoming</span></h4>  
     <ol class="list-featured">				
@@ -1004,11 +2054,8 @@ function lunr_search(term) {
     </ol>
 </div>     
     </div>
-    
-</div>
-
-
-
+        
+    </div>
 </div>
     </main>
 
