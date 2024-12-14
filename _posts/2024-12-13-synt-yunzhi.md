@@ -21,4 +21,4 @@ Yunzhi Zhang is a PhD student at Stanford University, advised by Jiajun Wu. Her 
 - When: Fri 13 Dec 2024, at 1 - 2 pm (Brisbane time)
 - Speaker: Yunzhi Zhang (Stanford)
 - Host: Ruihong Qiu
-- Zoom: [https://uqz.zoom.us/j/83905648246](https://uqz.zoom.us/j/83905648246) [[Recording]](https://uqz.zoom.us/j/83905648246)
+- Zoom: [https://uqz.zoom.us/j/83905648246](https://uqz.zoom.us/j/83905648246) [[Recording]](﻿https://uqz.zoom.us/rec/share/VG0aK-Ki_ogTrwvMJOyoVGz4I5la2EqVEZJKxtO6molYh2KYWpa4O7vXDND_j8zE.LPWVAq_AI2o8IP9l)
