@@ -3,7 +3,7 @@ layout: post
 title: "From Next Token Prediction to Compliant AI Assistants: A Systematic Path toward Trustworthy Large Language Models"
 author: YJ
 categories: [UC Merced]
-image: assets/images/speakers/mikes.jpg
+image: assets/images/speakers/yiwei.jpg
 tags: [LLM]
 date: 2025-02-23
 display-date: 2025-02-28
@@ -22,4 +22,4 @@ Yiwei Wang is currently an Assistant Professor at the Computer Science Departmen
 - Speaker: Prof Yiwei Wang (UC Merced)
 - Host: Dr Yujun Cai
 - Venue: 78-421
-- Zoom: [https://uqz.zoom.us/j/86003984130](https://uqz.zoom.us/j/81297131414) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/j/83289875914](https://uqz.zoom.us/j/86003984130))
+- Zoom: [https://uqz.zoom.us/j/81297131414](https://uqz.zoom.us/j/81297131414) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/j/83289875914](https://uqz.zoom.us/j/81297131414))
