@@ -21,5 +21,5 @@ Yiwei Wang is currently an Assistant Professor at the Computer Science Departmen
 - When: Fri. 28 Feb 2025, at 10 - 11 am (Brisbane time)
 - Speaker: Prof Yiwei Wang (UC Merced)
 - Host: Dr Yujun Cai
-- Venue: 78-421
+- Venue: 78-420
 - Zoom: [https://uqz.zoom.us/j/81297131414](https://uqz.zoom.us/j/81297131414) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/j/83289875914](https://uqz.zoom.us/j/81297131414))
