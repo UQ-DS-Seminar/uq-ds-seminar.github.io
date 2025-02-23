@@ -3,7 +3,7 @@ layout: post
 title: "From Next Token Prediction to Compliant AI Assistants: A Systematic Path toward Trustworthy Large Language Models"
 author: YJ
 categories: [UC Merced]
-image: assets/images/speakers/yiwei.jpg
+image: assets/images/speakers/yiweiwang.jpg
 tags: [LLM]
 date: 2025-02-23
 display-date: 2025-02-28
