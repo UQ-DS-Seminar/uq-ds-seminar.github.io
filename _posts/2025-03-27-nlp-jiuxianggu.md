@@ -3,7 +3,7 @@ layout: post
 title: "Towards Multimodal Intelligence: Bridging Vision, Language, and Large-Scale Models"
 author: YJ
 categories: [Adobe]
-image: assets/images/speakers/jiuxiang.png
+image: assets/images/speakers/jiuxiang.jpg
 tags: [MultiModal]
 date: 2025-03-02
 display-date: 2025-03-07
