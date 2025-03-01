@@ -22,4 +22,4 @@ Yiwei Wang is currently an Assistant Professor at the Computer Science Departmen
 - Speaker: Prof Yiwei Wang (UC Merced)
 - Host: Dr Yujun Cai
 - Venue: 78-420
-- Zoom: [https://uqz.zoom.us/j/81297131414](https://uqz.zoom.us/j/81297131414) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/j/83289875914](https://uqz.zoom.us/j/81297131414))
+- Zoom: [https://uqz.zoom.us/j/81297131414](https://uqz.zoom.us/j/81297131414) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/rec/share/3dDGGP92Sg3Hu6DX3YBsD2Kr5RI4hee5M9dm2Tp05WSGJKcvceOhdnwT6rOj4UJy.u2Y7MM7PuWpyfn0d](https://uqz.zoom.us/rec/share/3dDGGP92Sg3Hu6DX3YBsD2Kr5RI4hee5M9dm2Tp05WSGJKcvceOhdnwT6rOj4UJy.u2Y7MM7PuWpyfn0d))
