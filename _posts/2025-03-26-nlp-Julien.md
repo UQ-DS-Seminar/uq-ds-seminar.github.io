@@ -21,3 +21,5 @@ Dr Julien Monteil is leading the Machine Learning group at Amazon International 
 - When: Wed. 26 Mar 2025, at 11am.-12pm (Brisbane time)
 - Speaker: Dr Julien Monteil, Amazon International Machine Learning (Australia)
 - Host: Dr Rocky Chen
+- Venue: 14-217
+- Zoom: [https://uqz.zoom.us/j/87431037194](https://uqz.zoom.us/j/87431037194) 
