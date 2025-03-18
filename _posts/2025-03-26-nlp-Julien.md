@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging semantics for recommendation at scale"
 author: YJ
 categories: [Amazon]
-image: assets/images/speakers/Julien.jpg
+image: assets/images/speakers/julien.jpg
 tags: [Recommendation]
 date: 2025-03-14
 display-date: 2025-03-26
