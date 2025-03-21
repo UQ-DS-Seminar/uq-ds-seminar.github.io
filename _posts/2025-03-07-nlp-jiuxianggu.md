@@ -21,4 +21,4 @@ Dr. Jiuxiang Gu is a Senior Research Scientist at Adobe Research, focusing on Ma
 - When: Fri. 07 Mar 2025, at 10 - 11 am (Brisbane time)
 - Speaker: Dr Jiuxaing Gu (Adobe)
 - Host: Dr Yujun Cai
-- Zoom: [https://uqz.zoom.us/j/86590016543](https://uqz.zoom.us/j/86590016543) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/rec/share/dqjmJ0WzR1Ud1-U983KzjA3ljn8y7K7lCODxOr39hA1jAu7s5kdwRis9nd79OEZs.ZBtiIEd4wNsbMbRH?startTime=1741305857000)
+- Zoom: [https://uqz.zoom.us/j/86590016543](https://uqz.zoom.us/j/86590016543) [[Recording will only be available internally by request.]]([https://uqz.zoom.us/rec/share/dqjmJ0WzR1Ud1-U983KzjA3ljn8y7K7lCODxOr39hA1jAu7s5kdwRis9nd79OEZs.ZBtiIEd4wNsbMbRH?startTime=1741305857000])
