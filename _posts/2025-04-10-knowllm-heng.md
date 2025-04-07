@@ -3,7 +3,7 @@ layout: post
 title: "Towards Knowledgeable Foundation Models"
 author: RQ
 categories: [University of Illinois Urbana-Champaign]
-image: assets/images/speakers/HengJi.jpg
+image: assets/images/speakers/HengJi.jpeg
 tags: [LLM]
 date: 2025-04-07
 display-date: 2025-04-10
