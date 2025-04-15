@@ -17,7 +17,7 @@ Graph structures are prevalent across a variety of fields, including social netw
 Dr. Yuan Fang is a tenure-track Assistant Professor at the School of Computing and Information Systems at Singapore Management University (SMU). He was previously a data scientist at DBS Bank and a research scientist at A*STAR. His research interests revolve around graph learning and its applications in recommender systems, social network analysis, and science for AI. Dr. Fang has published over 90 papers in leading conferences and journals, and his work has been featured as "Most Influential Paper in WWW'23" (PaperDigest, Sep 2024), as well as "Best Papers of VLDB13" (VLDB Journal Special Issue). He is a Young Associate Editor of Frontiers of Computer Science (Springer & Higher Education Press), and serves various international conferences as organization committee member and area chair.
 ## More Details
 
-- When: Wed. 17 April 2025, at 1-2pm (Brisbane time)
+- When: Thursday. 17 April 2025, at 1-2pm (Brisbane time)
 - Speaker: Prof Yuan Fang (SMU)
 - Host: Dr Yujun Cai
 - Zoom: [https://uqz.zoom.us/j/84511228842](https://uqz.zoom.us/j/84511228842) 
