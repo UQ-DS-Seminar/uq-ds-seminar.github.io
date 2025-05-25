@@ -17,7 +17,7 @@ Qianyi Wu is a final-year PhD at Department of Data Science and AI, Monash Unive
 
 ## More Details
 
-- When: May 23 May 2025, at 3-4pm (Brisbane time)
+- When: May 23 2025, at 3-4pm (Brisbane time)
 - Speaker: Qianyi Wu (Monash University)
 - Host: Dr Yujun Cai
 - Zoom: [https://uqz.zoom.us/j/88094383147](https://uqz.zoom.us/j/88094383147) 
