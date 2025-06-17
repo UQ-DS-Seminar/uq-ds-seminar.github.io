@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teach AI What It Doesn't Know"
+title: Teach AI What It Doesn't Know
 author: YJ
 categories: [NTU]
 image: assets/images/speakers/xuefeng_du.png
