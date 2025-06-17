@@ -23,7 +23,7 @@ Sean (Xuefeng) Du is an incoming Assistant Professor at College of Computing and
 
 ## More Details
 
-- When: june 26 2025, at 1-2pm (Brisbane time)
+- When: June 26 2025, at 1-2pm (Brisbane time)
 - Speaker: Sean (Xuefeng) Du (incoming Assistant Professor in NTU)
 - Host: Yujun Cai
 - Zoom: [https://uqz.zoom.us/j/89394692123](https://uqz.zoom.us/j/89394692123) 
