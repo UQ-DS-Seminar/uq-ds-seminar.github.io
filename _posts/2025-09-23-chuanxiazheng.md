@@ -3,7 +3,7 @@ layout: post
 title: Beyond Visual Geometry: Toward Physical 3D Reconstruction
 author: YJ
 categories: [NTU]
-image: assets/images/speakers/chuanxia_zheng.png
+image: assets/images/speakers/chuanxia_zheng.png 
 tags: [3D]
 date: 2025-09-16
 display-date: 2025-09-26
