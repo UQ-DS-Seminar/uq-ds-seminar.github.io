@@ -4,7 +4,7 @@ title: "No.26-02 Simulating Real Users with State Alignment"
 author: RQ
 categories: [LLM]
 image: assets/images/speakers/evelyn.png
-tags: [3D]
+tags: [LLM]
 date: 2026-02-06
 display-date: 2026-03-24
 comments: True
