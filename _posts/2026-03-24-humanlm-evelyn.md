@@ -23,4 +23,5 @@ Evelyn Choi is a master's student in Computer Science at Stanford University, wh
 - When: Tue 24 March 2026, at 1 - 2 pm (Brisbane time)
 - Speaker: Evelyn Hejin Choi (Stanford)
 - Host: Ruihong Qiu
+- Coordinator: Zijian Wang
 - Zoom: [https://uqz.zoom.us/j/84122868001](https://uqz.zoom.us/j/84122868001) [[Recording]](﻿https://uqz.zoom.us/j/84122868001)
