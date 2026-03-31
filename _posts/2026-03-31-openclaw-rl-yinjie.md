@@ -22,4 +22,4 @@ Yinjie Wang is a second-year PhD student at the University of Chicago and curren
 - Speaker: Yinjie Wang (UChicago & Princeton)
 - Host: Ruihong Qiu
 - Coordinator: Zijian Wang
-- Zoom: [https://uqz.zoom.us/j/89903354449](https://uqz.zoom.us/j/89903354449) [[Recording]](https://uqz.zoom.us/j/89903354449)
+- Zoom: [https://uqz.zoom.us/j/89903354449](https://uqz.zoom.us/j/89903354449) [[Recording]](https://uqz.zoom.us/rec/share/hQCXj4dGV5lut7ZN1gV-D2xlY1O5KW3sG6iz2Cv2YG0rXbY7-1pvbIrOP5eouitx.gxApGsIkpsvwapQf)
