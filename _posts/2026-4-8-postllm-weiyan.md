@@ -22,4 +22,4 @@ Weiyan is an assistant professor at Northeastern University, working on human-AI
 - Speaker: Prof Weiyan Shi (Northeastern University)
 - Host: Dr Ruihong Qiu
 - Coordinator: Dr Zijian Wang
-- Zoom: [https://uqz.zoom.us/j/85868925939](https://uqz.zoom.us/j/85868925939) [[Recording]](https://uqz.zoom.us/j/85868925939)
+- Zoom: [https://uqz.zoom.us/j/85868925939](https://uqz.zoom.us/j/85868925939) [[Recording]](https://uqz.zoom.us/rec/share/rtkQgK6VhtiC8HEpXVf_vWoVFtcxasA4MSssQdy6vrhVQ4dmHVaxbEBGETC6m766.KBv71vGYdHtzOOIh)
